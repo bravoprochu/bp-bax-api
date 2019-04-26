@@ -21,10 +21,25 @@ namespace bax.api.maszynyNowe
         }
 
         public IConfiguration Configuration { get; }
+        private string corsPolicyName = "allowAll";
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(option =>
+            {
+                option.AddPolicy(corsPolicyName, builder =>
+                {
+                    builder.WithOrigins(
+                        "https://www.bdotp.pl",
+                        "https://www.bax-maszyny.pl",
+                        "http://localhost:4200"
+                        )
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+
+                });
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -40,6 +55,7 @@ namespace bax.api.maszynyNowe
                 app.UseHsts();
             }
 
+            app.UseCors(corsPolicyName);
             app.UseHttpsRedirection();
             app.UseMvc();
         }
