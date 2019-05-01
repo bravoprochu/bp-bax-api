@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using bax.api.maszynyNowe.Interfaces;
+using System.Threading;
 
 namespace bax.api.maszynyNowe.Controllers
 {
@@ -33,7 +34,9 @@ namespace bax.api.maszynyNowe.Controllers
 
             var maszynyList = this.getFullData();
 
-            return Ok(maszynyList.OrderByDescending(o=>o.nazwaModelu));
+            // Thread.Sleep(2500);
+
+            return Ok(maszynyList);
         }
 
         // GET api/values/5
@@ -86,7 +89,7 @@ namespace bax.api.maszynyNowe.Controllers
             {
                 throw e;
             }
-            return res;
+            return res.OrderByDescending(o => o.nazwaModelu).ToList();
         }
     }
 }

@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace bax.api.Controllers
@@ -28,8 +29,9 @@ namespace bax.api.Controllers
         {
             var news = this.GetFullNews();
 
+            // Thread.Sleep(2500);
 
-            return Ok(news.OrderByDescending(o => o.creationDate).Select(s=>s.miniInfo).ToList());
+            return Ok(news.Select(s=>s.miniInfo).ToList());
             // return Ok(news.OrderByDescending(o => o.creationDate));
         }
 
@@ -66,7 +68,7 @@ namespace bax.api.Controllers
             {
                 throw e;
             }
-            return res;
+            return res.OrderByDescending(o => o.creationDate).ToList();
         }
 
         private BaxNewsPayload GetNewsPayload(List<BaxNews> newsList, BaxNews news)
@@ -79,11 +81,11 @@ namespace bax.api.Controllers
             {
                 res.NextId = newsList.ElementAt(idx + 1).id;
             }
-            if (idx > 1)
+            if (idx > 0)
             {
                 res.PrevId = newsList.ElementAt(idx - 1).id;
             }
-            
+
 
 
 
