@@ -1,5 +1,26 @@
 [
     {
+        "creationDate": "2019-04-30",
+        "id": "majowka-2019",
+        "title": {
+            "title": "Majówka 2019",
+            "shortTitle": "BAX doradza",
+            "subtitle": "Jak spakować koszyk piknikowy"
+        },
+        "imgUrl": "./assets/images/news/bax_majowka_2019.png",
+        "youtubeUrl": "https://youtu.be/EIzn0zGfFLs",
+        "youtubeEmbedUrl": null,
+        "text": "<p>BAX nie tylko doskonale 🦉doradza w wyborze maszyn marek SENNEBOGEN Maschinenfabrik GmbH czy Yanmar Global ale także podpowiada ☝ jak perfekcyjnie spakować 🧺 koszyk piknikowy 🤣</p><p>Informujemy, że w dniu <strong>02-05-2019</strong> nie pracujemy..</p><p>Wypoczęci, uśmiechnięci wracamy do pracy 06-05-2019</p>",
+        "miniInfo": {
+            "fill": "#DDDBD1",
+            "imgUrl": "./assets/images/news/bax_majowka_2019.png",
+            "invert": true,
+            "pointer": "#FC7F3F",
+            "title": "Majówka 2019",
+            "url": "majowka-2019"
+        }
+    },
+    {
         "creationDate": "2019-04-19",
         "id": "wielkanoc-2019",
         "title": {
@@ -14,6 +35,7 @@
         "miniInfo": {
             "fill": "#006854",
             "imgUrl": "./assets/images/news/bax_wielkanoc_2019.png",
+            "invert": true,
             "pointer": "#eaed35",
             "title": "Wesołych Świąt",
             "url": "wielkanoc-2019"
@@ -299,6 +321,7 @@
         "miniInfo": {
             "fill": "#C6AADB",
             "imgUrl": "./assets/images/news/bax_walentynki_2019.png",
+            "invert": true,
             "pointer": "#D36BC6",
             "title": "Walentynki 2019",
             "url": "walentynki_2019"
@@ -358,6 +381,7 @@
         "miniInfo": {
             "fill": "#FAD5E1",
             "imgUrl": "./assets/images/news/bax_dzien_kobiet_2019.png",
+            "invert": true,
             "pointer": "#EF5B84",
             "title": "Dzień kobiet",
             "url": "dzienKobiet2019"
