@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using bax.api.maszynyNowe.Interfaces;
 using System.Threading;
+using bax.api.Services;
 
 namespace bax.api.maszynyNowe.Controllers
 {
@@ -16,12 +17,11 @@ namespace bax.api.maszynyNowe.Controllers
     [ApiController]
     public class MaszynyNoweController : ControllerBase
     {
-        const string MASZYNY_NOWE_FILENAME = "maszynyNoweList.json";
-        public IHostingEnvironment _env { get; set; }
+        private readonly BaxDataFactoryService _dataFactoryService;
 
-        public MaszynyNoweController(IHostingEnvironment env)
+        public MaszynyNoweController(BaxDataFactoryService dataFactoryService)
         {
-            _env = env;
+            _dataFactoryService = dataFactoryService;
         }
 
 
@@ -32,7 +32,9 @@ namespace bax.api.maszynyNowe.Controllers
         public async Task<IActionResult> Get()
         {
 
-            var maszynyList = this.getFullData();
+            // var maszynyList = this.getFullData();
+
+            var maszynyList = this._dataFactoryService.getMaszynyNoweList();
 
             // Thread.Sleep(2500);
 
@@ -43,7 +45,7 @@ namespace bax.api.maszynyNowe.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult> Get(string id)
         {
-            var maszynyList = this.getFullData();
+            var maszynyList = this._dataFactoryService.getMaszynyNoweList();
             var found = maszynyList.Find(w => w.id.ToLower() == id.ToLower());
 
             if (found != null)
@@ -71,25 +73,6 @@ namespace bax.api.maszynyNowe.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-        }
-
-
-        private List<MaszynyNoweList> getFullData() {
-
-            var res = new List<MaszynyNoweList>();
-            WebClient wc = new WebClient();
-            Uri _uri = new Uri($"{_env.WebRootPath}/data/{MASZYNY_NOWE_FILENAME}");
-
-            try
-            {
-                var json = wc.DownloadString(_uri);
-                res = JsonConvert.DeserializeObject<List<MaszynyNoweList>>(json);
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-            return res.OrderByDescending(o => o.nazwaModelu).ToList();
         }
     }
 }
