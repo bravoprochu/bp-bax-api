@@ -33,6 +33,8 @@ namespace bax.api.maszynyNowe
                     builder.WithOrigins(
                         "https://www.bdotp.pl",
                         "https://www.bax-maszyny.pl",
+                        "https://www.bax-baumaschinen.pl",
+
                         "http://localhost:4200"
                         )
                         .AllowAnyHeader()
