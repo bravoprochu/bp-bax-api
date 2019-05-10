@@ -1,4 +1,5 @@
-﻿using bax.api.Interfaces;
+﻿using bax.api.Models;
+using bax.api.Services;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -15,35 +16,33 @@ namespace bax.api.Controllers
     [ApiController]
     public class NewsController : ControllerBase
     {
-        private string BAX_NEWS_FILENAME = "baxNews.json";
-        private IHostingEnvironment _env { get; set; }
 
-        public NewsController(IHostingEnvironment env)
+        private readonly NewsService _baxNewsService;
+
+        public NewsController(dataFactoryService dataFactoryService, NewsService baxNewsService)
         {
-            this._env = env;
+            this._baxNewsService = baxNewsService;
         }
 
 
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            var news = this.GetFullNews();
-
             // Thread.Sleep(2500);
+            var res = this._baxNewsService.GetMiniInfoList();
 
-            return Ok(news.Select(s=>s.miniInfo).ToList());
+            return Ok(res);
             // return Ok(news.OrderByDescending(o => o.creationDate));
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
         {
-            var news = this.GetFullNews();
-            var found = news.Find(w => w.id.ToLower() == id.ToLower());
+            var found = this._baxNewsService.GetNewsPayload(id);
 
             if (found != null)
             {
-                return Ok(this.GetNewsPayload(news, found));
+                return Ok(found);
             }
             else
             {
@@ -53,44 +52,7 @@ namespace bax.api.Controllers
 
 
 
-        private List<BaxNews> GetFullNews()
-        {
-            var res = new List<BaxNews>();
-            WebClient wc = new WebClient();
-            Uri _uri = new Uri($"{_env.WebRootPath}/data/{BAX_NEWS_FILENAME}");
 
-            try
-            {
-                var json = wc.DownloadString(_uri);
-                res = JsonConvert.DeserializeObject<List<BaxNews>>(json);
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-            return res.OrderByDescending(o => o.creationDate).ToList();
-        }
-
-        private BaxNewsPayload GetNewsPayload(List<BaxNews> newsList, BaxNews news)
-        {
-            var res = new BaxNewsPayload();
-            res.News = news;
-            var idx = newsList.IndexOf(news);
-
-            if (idx < newsList.Count-1)
-            {
-                res.NextId = newsList.ElementAt(idx + 1).id;
-            }
-            if (idx > 0)
-            {
-                res.PrevId = newsList.ElementAt(idx - 1).id;
-            }
-
-
-
-
-            return res;
-        }
 
     }
 }

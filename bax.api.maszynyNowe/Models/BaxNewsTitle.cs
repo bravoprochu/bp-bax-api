@@ -1,4 +1,4 @@
-﻿namespace bax.api.Interfaces
+﻿namespace bax.api.Models
 {
     public class BaxNewsTitle
     {
