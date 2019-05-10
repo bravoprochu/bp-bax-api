@@ -1,4 +1,4 @@
-﻿using bax.api.Interfaces;
+﻿using bax.api.Models;
 using bax.api.Services;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -17,11 +17,10 @@ namespace bax.api.Controllers
     public class NewsController : ControllerBase
     {
 
-        private readonly BaxNewsService _baxNewsService;
+        private readonly NewsService _baxNewsService;
 
-        public NewsController(BaxDataFactoryService dataFactoryService, BaxNewsService baxNewsService)
+        public NewsController(dataFactoryService dataFactoryService, NewsService baxNewsService)
         {
-
             this._baxNewsService = baxNewsService;
         }
 

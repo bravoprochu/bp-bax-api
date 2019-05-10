@@ -17,11 +17,11 @@ namespace bax.api.maszynyNowe.Controllers
     [ApiController]
     public class MaszynyNoweController : ControllerBase
     {
-        private readonly BaxDataFactoryService _dataFactoryService;
+        private readonly MaszynyNoweService _maszynyNoweService;
 
-        public MaszynyNoweController(BaxDataFactoryService dataFactoryService)
+        public MaszynyNoweController(MaszynyNoweService maszynyNoweService)
         {
-            _dataFactoryService = dataFactoryService;
+            _maszynyNoweService = maszynyNoweService;
         }
 
 
@@ -34,7 +34,7 @@ namespace bax.api.maszynyNowe.Controllers
 
             // var maszynyList = this.getFullData();
 
-            var maszynyList = this._dataFactoryService.getMaszynyNoweList();
+            var maszynyList = this._maszynyNoweService.GetMaszynyNoweList();
 
             // Thread.Sleep(2500);
 
@@ -45,8 +45,7 @@ namespace bax.api.maszynyNowe.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult> Get(string id)
         {
-            var maszynyList = this._dataFactoryService.getMaszynyNoweList();
-            var found = maszynyList.Find(w => w.id.ToLower() == id.ToLower());
+            var found = this._maszynyNoweService.GetMaszynyNoweById(id);
 
             if (found != null)
             {
@@ -57,22 +56,5 @@ namespace bax.api.maszynyNowe.Controllers
             }
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

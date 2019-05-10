@@ -1,4 +1,4 @@
-﻿using bax.api.Interfaces;
+﻿using bax.api.Models;
 using bax.api.maszynyNowe.Interfaces;
 using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 
 namespace bax.api.Services
 {
-    public class BaxDataFactoryService
+    public class dataFactoryService
     {
         const string BAX_NEWS_FILENAME = "baxNews.json";
         const string MASZYNY_NOWE_FILENAME = "maszynyNoweList.json";
 
         private IHostingEnvironment _env { get; set; }
 
-        public BaxDataFactoryService(IHostingEnvironment env)
+        public dataFactoryService(IHostingEnvironment env)
         {
             this._env = env;
         }
@@ -40,8 +40,7 @@ namespace bax.api.Services
             return res;
         }
 
-
-        public List<MaszynyNoweList> getMaszynyNoweList()
+        public List<MaszynyNoweList> GetMaszynyNoweList()   
         {
             var res = new List<MaszynyNoweList>();
             WebClient wc = new WebClient();
@@ -56,7 +55,7 @@ namespace bax.api.Services
             {
                 throw e;
             }
-            return res.OrderByDescending(o => o.nazwaModelu).ToList();
+            return res;
         }
     }
 }

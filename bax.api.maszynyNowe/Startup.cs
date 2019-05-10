@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using bax.api.Services;
 
+
 namespace bax.api.maszynyNowe
 {
     public class Startup
@@ -42,8 +43,10 @@ namespace bax.api.maszynyNowe
                 });
             });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddSingleton<BaxNewsService>();
-            services.AddSingleton<BaxDataFactoryService>();
+            services.AddSingleton<MaszynyNoweService>();
+            services.AddSingleton<NewsService>();
+            services.AddSingleton<SiteMapService>();
+            services.AddSingleton<dataFactoryService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

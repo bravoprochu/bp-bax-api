@@ -1,11 +1,14 @@
 ﻿using System;
+using System.Xml.Serialization;
 
-namespace bax.api.Controllers
+namespace bax.api.Models
 {
     public class SiteMapUrl
     {
+        [XmlAttribute]
         public string Loc { get; set; }
         private string _lastmod;
+
 
         public string Lastmod
         {
@@ -25,7 +28,9 @@ namespace bax.api.Controllers
             }
             set { _lastmod = value; }
         }
-        public string Chanefreq { get; set; }
+        [XmlAttribute]
+        public string Changefreq { get; set; }
+        [XmlAttribute]
         public double Priority { get; set; }
     }
 }

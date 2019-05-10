@@ -1,4 +1,4 @@
-﻿using bax.api.Interfaces;
+﻿using bax.api.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace bax.api.Services
 {
-    public class BaxNewsService
+    public class NewsService
     {
-        private readonly BaxDataFactoryService _baxDataFactory;
+        private readonly dataFactoryService _baxDataFactory;
 
-        public BaxNewsService(BaxDataFactoryService baxDataFactoryService)
+        public NewsService(dataFactoryService dataFactoryService)
         {
-            _baxDataFactory = baxDataFactoryService;
+            _baxDataFactory = dataFactoryService;
         }
 
 
@@ -40,17 +40,10 @@ namespace bax.api.Services
 
         public BaxNewsPayload GetNewsPayload(string id)
         {
-
-            var foundedNews = this.GetById(id);
-
-            if (foundedNews == null) { return null; }
-
-
-
-
-
             var res = new BaxNewsPayload();
             var newsList = this.GetList();
+            var foundedNews = newsList.Find(f => f.id.ToLower() == id.ToLower());
+            if (foundedNews == null) { return null; }
             res.News = foundedNews;
             var idx = newsList.IndexOf(foundedNews);
 
@@ -64,8 +57,6 @@ namespace bax.api.Services
             }
             return res;
         }
-
-
 
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace bax.api.Interfaces
+namespace bax.api.Models
 {
     public class BaxNewsPayload
     {
