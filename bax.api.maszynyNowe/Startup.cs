@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using bax.api.Services;
-
+using Microsoft.AspNetCore.Mvc.Formatters;
 
 namespace bax.api.maszynyNowe
 {
@@ -36,6 +36,7 @@ namespace bax.api.maszynyNowe
                         "https://www.bdotp.pl",
                         "https://www.bax-maszyny.pl",
                         "https://www.bax-baumaschinen.pl",
+                        "https://www.sennebogen.pl",
 
                         "http://localhost:4200"
                         )
@@ -44,7 +45,9 @@ namespace bax.api.maszynyNowe
 
                 });
             });
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc()
+                .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+                // .AddMvcOptions(o => o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter()));
             services.AddSingleton<MaszynyNoweService>();
             services.AddSingleton<NewsService>();
             services.AddSingleton<SiteMapService>();
@@ -66,6 +69,7 @@ namespace bax.api.maszynyNowe
             app.UseCors(corsPolicyName);
             app.UseHttpsRedirection();
             app.UseMvc();
+            
         }
     }
 }
