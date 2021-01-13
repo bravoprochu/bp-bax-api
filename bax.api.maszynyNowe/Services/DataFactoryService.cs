@@ -1,5 +1,4 @@
 ﻿using bax.api.Models;
-using bax.api.maszynyNowe.Interfaces;
 using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
 using System;
@@ -10,16 +9,35 @@ using System.Threading.Tasks;
 
 namespace bax.api.Services
 {
-    public class dataFactoryService
+    public class DataFactoryService
     {
         const string BAX_NEWS_FILENAME = "baxNews.json";
         const string MASZYNY_NOWE_FILENAME = "maszynyNoweList.json";
+        const string GALLERIES_FILENAME = "galleries.json";
 
         private IHostingEnvironment _env { get; set; }
 
-        public dataFactoryService(IHostingEnvironment env)
+        public DataFactoryService(IHostingEnvironment env)
         {
             this._env = env;
+        }
+
+        public List<ImageGallery> GetGalleries()
+        {
+            var res = new List<ImageGallery>();
+            WebClient wc = new WebClient();
+            Uri _uri = new Uri($"{_env.WebRootPath}/data/{GALLERIES_FILENAME}");
+
+            try
+            {
+                var json = wc.DownloadString(_uri);
+                res = JsonConvert.DeserializeObject<List<ImageGallery>>(json);
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+            return res;
         }
 
         public List<BaxNews> GetNewsList()
@@ -40,16 +58,16 @@ namespace bax.api.Services
             return res;
         }
 
-        public List<MaszynyNoweList> GetMaszynyNoweList()   
+        public List<MaszynyNowe> GetMaszynyNoweList()   
         {
-            var res = new List<MaszynyNoweList>();
+            var res = new List<MaszynyNowe>();
             WebClient wc = new WebClient();
             Uri _uri = new Uri($"{_env.WebRootPath}/data/{MASZYNY_NOWE_FILENAME}");
 
             try
             {
                 var json = wc.DownloadString(_uri);
-                res = JsonConvert.DeserializeObject<List<MaszynyNoweList>>(json);
+                res = JsonConvert.DeserializeObject<List<MaszynyNowe>>(json);
             }
             catch (Exception e)
             {

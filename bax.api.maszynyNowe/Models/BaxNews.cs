@@ -7,13 +7,14 @@ namespace bax.api.Models
 {
     public class BaxNews
     {
-        public DateTime creationDate { get; set; }
-        public string id { get; set; }
-        public BaxNewsTitle title { get; set; }
-        public string imgUrl { get; set; }
-        public string youtubeUrl { get; set; }
-        public string youtubeEmbedUrl { get; set; }
-        public string text { get; set; }
-        public BaxNewsMiniInfo miniInfo{ get; set; }
+        public DateTime CreationDate { get; set; }
+        public string Id { get; set; }
+        public ImageGallery ImageGallery { get; set; }
+        public string ImgUrl { get; set; }
+        public BaxNewsMiniInfo MiniInfo { get; set; }
+        public BaxNewsTitle Title { get; set; }
+        public string Text { get; set; }
+        public string YoutubeUrl { get; set; }
+        public string YoutubeEmbedUrl { get; set; }
     }
 }

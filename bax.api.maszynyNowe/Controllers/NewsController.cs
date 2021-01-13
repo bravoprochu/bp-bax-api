@@ -19,7 +19,7 @@ namespace bax.api.Controllers
 
         private readonly NewsService _baxNewsService;
 
-        public NewsController(dataFactoryService dataFactoryService, NewsService baxNewsService)
+        public NewsController(DataFactoryService dataFactoryService, NewsService baxNewsService)
         {
             this._baxNewsService = baxNewsService;
         }
@@ -28,7 +28,7 @@ namespace bax.api.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            // Thread.Sleep(2500);
+            Thread.Sleep(500);
             var res = this._baxNewsService.GetMiniInfoList();
 
             return Ok(res);

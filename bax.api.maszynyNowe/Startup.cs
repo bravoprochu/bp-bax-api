@@ -32,26 +32,20 @@ namespace bax.api.maszynyNowe
             {
                 option.AddPolicy(corsPolicyName, builder =>
                 {
-                    builder.WithOrigins(
-                        "https://www.bdotp.pl",
-                        "https://www.bax-maszyny.pl",
-                        "https://www.bax-baumaschinen.pl",
-                        "https://www.sennebogen.pl",
-
-                        "http://localhost:4200"
-                        )
+                    builder
+                        .AllowAnyOrigin()
                         .AllowAnyHeader()
                         .AllowAnyMethod();
 
                 });
             });
             services.AddMvc()
-                .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-                // .AddMvcOptions(o => o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter()));
+             .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddSingleton<GalleryService>();
             services.AddSingleton<MaszynyNoweService>();
             services.AddSingleton<NewsService>();
             services.AddSingleton<SiteMapService>();
-            services.AddSingleton<dataFactoryService>();
+            services.AddSingleton<DataFactoryService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

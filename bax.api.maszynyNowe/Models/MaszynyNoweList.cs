@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace bax.api.maszynyNowe.Interfaces
+namespace bax.api.Models
 {
     public class MaszynyNoweList
     {
-        public string id { get; set; }
-        public string rodzajUrzadzenia { get; set; }
-        public double? markaId { get; set; }
-        public string marka { get; set; }
-        public string seria { get; set; }
-        public string nazwaModelu { get; set; }
-        public double? dlugosc_mm { get; set; }
-        public double? szerokosc_mm { get; set; }
-        public double? szerokoscMin_mm { get; set; }
-        public double? wysokosc_mm { get; set; }
-        public double? szerokoscGasienic_mm { get; set; }
-        public string szerokoscPrzyOgumieniu_mm { get; set; }
-        public double? rozstawGasienic_mm { get; set; }
+        public string Id { get; set; }
+        public string RodzajUrzadzenia { get; set; }
+        public double? MarkaId { get; set; }
+        public string Marka { get; set; }
+        public string Seria { get; set; }
+        public string NazwaModelu { get; set; }
+        public double? Dlugosc_mm { get; set; }
+        public double? Szerokosc_mm { get; set; }
+        public double? SzerokoscMin_mm { get; set; }
+        public double? Wysokosc_mm { get; set; }
+        public double? SzerokoscGasienic_mm { get; set; }
+        public string SzerokoscPrzyOgumieniu_mm { get; set; }
+        public double? RozstawGasienic_mm { get; set; }
         public double? rozstawGasienicMin_mm { get; set; }
         public double? waga_kg { get; set; }
         public string rodzajRamienia { get; set; }

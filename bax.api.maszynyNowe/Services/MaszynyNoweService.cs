@@ -1,4 +1,4 @@
-﻿using bax.api.maszynyNowe.Interfaces;
+﻿using bax.api.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,21 +8,21 @@ namespace bax.api.Services
 {
     public class MaszynyNoweService
     {
-        private readonly dataFactoryService _baxDataFactoryService;
+        private readonly DataFactoryService _baxDataFactoryService;
 
-        public MaszynyNoweService(dataFactoryService baxDataFactoryService)
+        public MaszynyNoweService(DataFactoryService baxDataFactoryService)
         {
             _baxDataFactoryService = baxDataFactoryService;
         }
 
-        public List<MaszynyNoweList> GetMaszynyNoweList()
+        public List<MaszynyNowe> GetMaszynyNoweList()
         {
-            return this._baxDataFactoryService.GetMaszynyNoweList().OrderByDescending(o => o.nazwaModelu).ToList();
+            return this._baxDataFactoryService.GetMaszynyNoweList().OrderBy(o=>o.Marka).ThenByDescending(o => o.NazwaModelu).ToList();
         }
 
-        public MaszynyNoweList GetMaszynyNoweById(string id)
+        public MaszynyNowe GetMaszynyNoweById(string id)
         {
-            return this.GetMaszynyNoweList().Find(w => w.id.ToLower() == id.ToLower());
+            return this.GetMaszynyNoweList().Find(w => w.Id.ToLower() == id.ToLower());
         }
 
 

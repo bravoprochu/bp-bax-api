@@ -25,31 +25,9 @@ namespace bax.api.Controllers
 
 
         [HttpGet]
-        public HttpResponseMessage GetSiteMap()
+        public IActionResult GetSiteMap(bool newsOwnDate=true)
         {
-
-            //var stream = new MemoryStream();
-            var stream = this._siteMapService.GenSiteMap();
-            //// processing the stream.
-
-            var result = new HttpResponseMessage(HttpStatusCode.OK)
-            {
-                Content = new ByteArrayContent(stream.ToArray())
-            };
-            result.Content.Headers.ContentDisposition =
-                new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment")
-                {
-                    FileName = "CertificationCard.pdf"
-                };
-            result.Content.Headers.ContentType =
-                new MediaTypeHeaderValue("application/octet-stream");
-
-            return result;
-
-            //var res = this._siteMapService.GenSiteMap();
-
-            //return File(res.GetBuffer(), );
-
+            return Content(this._siteMapService.GenSiteMap(newsOwnDate).ToString(), "application/xml", UTF8Encoding.UTF8);
         }
 
 

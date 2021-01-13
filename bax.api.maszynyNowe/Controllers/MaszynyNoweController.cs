@@ -7,7 +7,7 @@ using System.Net;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
-using bax.api.maszynyNowe.Interfaces;
+using bax.api.Models;
 using System.Threading;
 using bax.api.Services;
 
@@ -31,13 +31,7 @@ namespace bax.api.maszynyNowe.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-
-            // var maszynyList = this.getFullData();
-
             var maszynyList = this._maszynyNoweService.GetMaszynyNoweList();
-
-            // Thread.Sleep(2500);
-
             return Ok(maszynyList);
         }
 

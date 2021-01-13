@@ -1,5 +1,790 @@
 [
     {
+        "creationDate": "2020-04-01",
+        "id": "bax-prima-aprilis-Krzysztof-grodzki-krissTikTokMakeUp",
+        "title": {
+            "title": "KrissTikTokMakeUp",
+            "shortTitle": "Krzysztof opuszcza BAX",
+            "subtitle": "nowe wyzwanie"
+        },
+        "imgUrl": "assets/images/news/bax_primaAprilis_2020_krisTikTokMakeUp.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Z przykrością zawiadamiamy 😎 że Krzysztof Grodzki opuszcza firmę BAX 😮 Przez PRAWIE cały okres swej pracy u nas docierał do TOP100 najlepszych pracowników BAX😉 Jednak, jak dziś stwierdził, w końcu odnalazł swoje powołanie i chce się temu poświęcić 🙄</p><p>Życzymy mu wszystkiego najlepszego na nowej drodze i serdecznie zachęcamy do wsparcia go w dążeniu do spełnienia swych tak skrzętnie ukrywanych marzeń 😍</p><p>Krzysztof, niech Ci TikTok lekkim będzie 😊</p>",
+        "miniInfo": {
+            "fill": "#0072C6",
+            "imgUrl": "assets/images/news/bax_primaAprilis_2020_krisTikTokMakeUp.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#D60270",
+            "title": "Koniec współpracy",
+            "url": "bax-prima-aprilis-Krzysztof-grodzki-krissTikTokMakeUp"
+        }
+    },
+    {
+        "creationDate": "2020-03-23",
+        "id": "bax-intro-2020",
+        "title": {
+            "title": "BAX, Intro 2020",
+            "shortTitle": null,
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_intro_2020.png",
+        "youtubeUrl": "https://youtu.be/lXBjAJY6QRU",
+        "youtubeEmbedUrl": null,
+        "text": "<p💥 Branże budowlane, recyklingowe, przemysł tartaczny, stoczniowy. Zaopatrujemy zarówno Dużych Graczy jak i drobnych przedsiębiorców 😍👌 Mini/midi koparki ładowarki kołowe tu proponujemy markę <strong>Yanmar</strong>. Wysoki przeładunek to miejsce dla naszego zielonego smoka, niemieckiej marki <strong>Sennebogen</strong>. W kategorii rozdrabniacze - proponujemy <strong>ARJES - Recycling Innovation</strong> natomiast dla zainteresowanych recyklingiem niklu, aluminium, miedzi, ołowiu - włoska marka <strong>Guidetti Recycling</strong> 😄</p><p>👍 Słyniemy z profesjonalnej obsługi sprzedażowej a mimo to, nie ustajemy w dążeniu do jeszcze lepszych wyników marki BAX jako autoryzowanego dealera 💪</p><p>Serdecznie zapraszamy do kontaktu i udostępnienie tego 🎞 clipu, być może ktoś z Twoich znajomych poszukuje naszych gotowych rozwiązań😊</p>",
+        "miniInfo": {
+            "fill": "#B5D1E8",
+            "imgUrl": "assets/images/news/bax_intro_2020.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#1E1C77",
+            "title": "BAX Intro 2020",
+            "url": "bax-intro-2020"
+        }
+    },
+    {
+        "creationDate": "2020-03-13",
+        "id": "bax-home-office-bronimy-sie-przed-koronawirusem",
+        "title": {
+            "title": "Zostańmy w domach",
+            "shortTitle": "Home office",
+            "subtitle": "Bronimy się przed COVID-19 koronawirusem"
+        },
+        "imgUrl": "assets/images/news/bax_info_koronawirus.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>📣 UWAGA 📣 Włączamy tryb HOME OFFICE 🤨 Ciągle pozostajemy do Waszej dyspozycji, jednak wszelakie wizyty w naszej siedzibie muszą być wcześniej uzgodnione telefonicznie. Naprawy serwisowe będą realizowane w wyjątkowych sytuacjach. Troszczmy się o własne zdrowie👍</p><p>W tak wyjątkowych czasach, zbiorowa odpowiedzialność jest tu kluczowa. Nie wolno lekceważyć zaleceń związanych z tematem epidemii COVID-19 - koronawirusa ☹</p><p>Jeżeli tylko możemy, przetrzymajmy ten czas w domach w gronie najbliższych. ODPOCZYWAJMY, budujmy odporność by obronić się przed wirusem 💪</p><p>O ile jest taka możliwość, wykorzystajmy ten czas na analizy, przejrzyjcie ponownie naszą ofertę, skontaktujcie się z naszymi przedstawicielami. Jesteśmy pod telefonami, służymy pomocą. <strong>ZOSTAŃMY W DOMACH 😃</strong></p><p>Sprawa jest poważna, warto zapoznać się z oficjalnymi informacjami jak się bronić, na co zwracać uwagę i czego unikać..<a href=\"https://gis.gov.pl\">GIS.gov.pl</a></p><p>Sytuacja jest trudna, ale damy sobie radę 👌💪<br/><br/></p><p>Jak to wygląda u Was, czy macie możliwość pozostać w domach i wykonywać swoją pracę zdalnie ? Dajcie znać. Trzymamy za Was, za nas kciule !</p>",
+        "miniInfo": {
+            "fill": "#F9A58C",
+            "imgUrl": "assets/images/news/bax_info_koronawirus.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#EF2B2D",
+            "title": "Home office",
+            "url": "bax-home-office-bronimy-sie-przed-koronawirusem"
+        }
+    },
+    {
+        "creationDate": "2020-03-09",
+        "id": "bax-arjes-squad-przekazanie-arjes-impaktor-250-evo-do-ZDAntczak",
+        "title": {
+            "title": "Impaktor 250Evo ZDAntczak",
+            "shortTitle": "Przekazanie maszyny",
+            "subtitle": "Bax-Arjes Squad"
+        },
+        "imgUrl": "assets/images/news/bax-arjes_squad_ZDAntczak_thumbnail.jpg",
+        "youtubeUrl": "https://youtu.be/z_b1NVAdrXY",
+        "youtubeEmbedUrl": null,
+        "text": "<p>TAK, firma BAX jest autoryzowanym przedstawicielem mark ARJES - Recycling Innovation 😊 - producentem całej palety rozdrabniaczy, i TAK, wreszcie udało nam się przygotować 🎥 materiał z przekazania jednej z takich maszyn.</p><p>W zimny piątkowy poranek mieliśmy przyjemność przekazać firmie ZDA model Impaktor 250 EVO. 💥 Zakład Drogowy Antczak to Specjaliści od nawierzchni, oferują między innymi remonty cząstkowe nawierzchni, roboty związane z budową jezdni o różnych typach nawierzchni i chodników z kostki brukowej. Gorąco polecamy ich usługi oraz zachęcamy do odwiedzenia strony internetowej <a href=\"http://www.zdAntczak.pl\">www.ZDAntczak.pl</a> czy profilu <a href=\"https://www.facebook.com/ZDAntczak/ \">ZDA na facebook</a>😄</p><p>☝ Jak zwykle podczas przekazań maszyn, przeprowadzamy instruktaż, odpowiadamy na wszelkie pytania techniczne operatorów. Poznajcie ogromne zalety mobilnego rozdrabniacza firmy Arjes, jeżeli potrzebujecie dodatkowych informacji - jesteśmy do Waszej dyspozycji.<br/>Dziękujemy za polubie, udostępnienie naszego postu</p><br/><br/><p>🔥 UWAGA: BAX-ARJES Squad może wpaść również do Ciebie 😍🙂</p><br/><p>PS; Bujanka Filipa na początku klipu to mikstura przeszywającego zimnego wiatru i DEBIUTU w firmowych klipach 😉 ..Uwierzcie, było .... zimno❄🌧 😎</p>",
+        "miniInfo": {
+            "fill": "#DDDBD1",
+            "imgUrl": "assets/images/news/bax-arjes_squad_ZDAntczak_thumbnail.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#F96302",
+            "title": "Arjes Impaktor 250",
+            "url": "bax-arjes-squad-przekazanie-arjes-impaktor-250-evo-do-ZDAntczak"
+        }
+    },
+    {
+        "creationDate": "2020-03-08",
+        "id": "bax-dzien-kobiet-2020",
+        "title": {
+            "title": "Dzień Kobiet 2020",
+            "shortTitle": "",
+            "subtitle": ""
+        },
+        "imgUrl": "assets/images/news/bax_DzienKobiet2020.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Love - Strength - Grace [Miłość, Siła, Wdzięk... ] 😍 Czy można lepiej, w trzech słowach scharakteryzować Kobiety ⁉ //w wersji eng tak jakoś \"lepiej\" brzmi 😉👌<br />..WSZYSTKIM kobietom życzymy wspaniałego dnia, 📣głośno mówimy jak bardzo jesteśmy z Was dumni 👏 Wspólnie korzystajmy z tego pięknego dnia 😃 Najlepszego Drogie Panie 💖</p>",
+        "miniInfo": {
+            "fill": "#A5DDE2",
+            "imgUrl": "assets/images/news/bax_DzienKobiet2020.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#EA0F6B",
+            "title": "Dzień kobiet 2020",
+            "url": "bax-dzien-kobiet-2020"
+        }
+    },
+    {
+        "creationDate": "2020-03-04",
+        "id": "bax-zlomowisko-sezon-10-wspieramy-ekipe-olmetu",
+        "title": {
+            "title": "Złomowisko s10",
+            "shortTitle": "Wspieramy ekipę Olmetu",
+            "subtitle": "International Scrap Challenge"
+        },
+        "imgUrl": "assets/images/news/bax_zlomowisko_sezon10_olmet_team.jpg",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Plany na wieczór ⁉😕 Porzućcie je 😆 ...Dziś, godzina 21 na DiscoveryChannel oglądamy <strong>Złomowisko PL</strong> Nowy, <strong>10</strong> już sezon zaczął się w zeszłym tygodniu, jednak NASZE TYPY - <a href=\"https://www.facebook.com/KuraZlomowiskoPl/?__tn__=%2Cd%2CP-R&eid=ARCf0LGjvFxBWYpueuR1nuMO0C3Bd4pWV8qyNgV1tA2ImG6tgYkx7iLyWg7KO5Ey02CHi4NHcsIYFtXs\"><strong>KuraZłomowisko.pl</strong></a> mają mieć premierę właśnie tego wieczoru 😍 </p><p>Zgodnie z informacją dotyczącą serii: \"Przemek z Olmetu bez wahania podejmuje różne wyzwania. Tym razem wspólnie ze swoimi ludźmi weźmie udział w międzynarodowych zawodach operatorów maszyn złomiarskich.\"<br />Teraz chwila: ..tych zawodach 👀 naszych zawodach ⁉❔👁 <a href=\"https://www.facebook.com/events/2567961553225472/\">(International Scrap Challnege) </a> 😃😁☝ Przypomnijmy może tylko że miał miejsce taki event podczas którego zjawili się KOSMICI z Olmetu...😉</p><p>📣 Słuchajcie, zbiórka 20:55, chipsy, popcorn czy schabowy.. (nie wnikamy w gusta), i wspólnie WSPIERAMY EKIPĘ Olmet. Inspiruje nas ZŁOM ! <br />..A później/albo wcześniej, zerknijcie sobie na relacje live z naszego wydarzenia ISC w której brali udział bohaterowie serii.<br /><br />Na marginesie, MY też tam byliśmy, może i nas 🎥 WIELKI KADR discovery PONOWNIE uchwycił, jak sądzicie ?😉</p><br /><br/><p><i>Drodzy Państwo, zasugerowaliśmy by rzucić dziś wszystko i oglądać punktualnie o 21:00 Złomowisko na programie Discovery😄 JEDNAKŻE: imprez weselnych, wizyt w sanepidzie czy odwiedzin szwagra sugerujemy nie przekładać 😟 Dochodzą nas słuchy że najbardziej nas interesujący występ EKIPY Olmet, KuraZłomowisko.pl może być wyemitowany w przyszłym (trzecim lub czwartym) odcinku serii.. Za ewentualne wprowadzenie w błąd, serdecznie przepraszamy 😎 Jednak czujność musimy zachować, musimy się informować wzajemnie i być gotowym....😀</i></p>",
+        "miniInfo": {
+            "fill": "#335687",
+            "imgUrl": "assets/images/news/bax_zlomowisko_sezon10_olmet_team.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#E2D3D6",
+            "title": "Złomowisko s10",
+            "url": "bax-zlomowisko-sezon-10-wspieramy-ekipe-olmetu"
+        }
+    },
+    {
+        "creationDate": "2020-02-28",
+        "id": "bax-yanmar-promocja-marzec-2020-sworznie-i-tuleje",
+        "title": {
+            "title": "Promocja na sworznie i tuleje",
+            "shortTitle": "Oryginalne części Yanmar",
+            "subtitle": "Marzec 2020"
+        },
+        "imgUrl": "assets/images/news/BAX_Yanmar_Promotion_2020_03_tuleje_sworznie.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Miesiąc MARZEC 2020 pod znakiem ORYGINALNYCH części marki Yanmar Compact Equipment Europe - tym razem 💥 SWORZNIE I TULEJE 😍 w promocyjnym upuście -10% 😮😀👌</p><p>Maszyny przygotowane do sezonu ? Umówmy się tak: przez weekend sprawdźcie jak się mają mocowania łyżek w Waszych Yankach i jeśli zauważycie jakieś luzy.. bombardujcie Majami'ego (Krzysztof Bereźnicki 📱 +48 508 368 258) o części.. plus... EXTRA BONUS.. //na bank coś znajdzie 👍<br />📢 ..zasypmy go robotą, przygniećmy zamówieniami, wspólnie sprawdźmy wydajność systemu sprzedażowego BAX/Yanmar.. ..niech Majami krzyczy: nieee wyrabiam się z zamówieniami.. 😉 ..niech krzyczy !</p>",
+        "miniInfo": {
+            "fill": "#CE1126",
+            "imgUrl": "assets/images/news/BAX_Yanmar_Promotion_2020_03_tuleje_sworznie.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#F9DD16",
+            "title": "Sworznie i tuleje",
+            "url": "bax-yanmar-promocja-marzec-2020-sworznie-i-tuleje"
+        }
+    },
+    {
+        "creationDate": "2020-02-14",
+        "id": "walentynki-2020",
+        "title": {
+            "title": "Wspaniałych Walentynek",
+            "shortTitle": "Wyrażamy głośno swoje uczucia 😘",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_walentynki_2020_A-100.jpg",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Wspaniałego Walniętego 💕😍💕 Kultywując tą wspaniałą tradycje chcielibyśmy Wam życzyć cudownego dnia 😘 W dniu dzisiejszym zbieramy się na odwagę by wyrażać swoje uczucia, by wreszcie wykonać ten pierwszy krok, by puścić oko (ponoć DZIŚ powinno być wybaczone choć sugerujemy zachować ostrożność 😉)<br />W każdym razie to najlepszy moment by wykrzyczeć to głośno na środku ulicy, napisać post w ulubionej grupie lub komentować wszystko co tylko można zaczynając od dwóch fraz do wyboru:<ul><li>🔥 'KOCHAM MASZYNY YANMAR' 👌</li> <li>'PRAGNĘ PRZEŁADUNKOWĄ SENNEBOGENA' 🤗🤘</li></ul></p><p>Nie wstydźmy się swoich uczuć, mówmy/piszmy o nich \"głośno\"<br/><br/><br/> Najlepszego !👏<br /></p>",
+        "miniInfo": {
+            "fill": "#C687D1",
+            "imgUrl": "assets/images/news/bax_walentynki_2020_A-100.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#A0274B",
+            "title": "Walentynki 2020",
+            "url": "walentynki-2020"
+        }
+    },
+    {
+        "creationDate": "2020-02-11",
+        "id": "BUDMA-INTERMASZ-2020-BAX-przekazanie-VIO23-MARKOP-Marcin-drzewiecki",
+        "title": {
+            "title": "BUDMA INTERMASZ 2020 Relacja",
+            "shortTitle": "Przekazanie ViO23",
+            "subtitle": "MARKOP Marcin Drzewiecki"
+        },
+        "imgUrl": "assets/images/news/bax_budma-intermasz_2020_relacja_thumbnail.png",
+        "youtubeUrl": "https://youtu.be/UXs1QNItw_0",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Podczas czterech dni na targach <strong>Budma Intermasz 2020</strong> (4-7 luty 2020) przygotowaliśmy pół tysiąca kanapek, 5tys kaw * 😜, wymieniliśmy z klientami 4.8 miliona słów * 🙄, rozdaliśmy setki prospektów *, tysiące wizytówek * a od uśmiechów Krzysztof Grodzki dostał zmarszczek 😉 Jednak w piątkowe popołudnie, podczas zwijania sprzętu wszyscy, jednomyślnie stwierdzili: WARTO BYŁO 😃</p><p>Jako przedstawiciel marki Yanmar Compact Equipment Europe byliśmy gospodarzem stoiska i mieliśmy ogromną przyjemność gościć Panią Sylwie Keiner (Yanmar Business Manager - opiekun marki w Polsce) jak i pozostałych przedstawicieli dealerów marki - jednak wielka Yanmar'owa rodzina. Przemiła atmosfera, mnóstwo wartościowych uwag, sugestii a wszystko by dalej budować coraz lepsze postrzeganie marki Yanmar w Polsce.😀</p><p>Nasze zaproszenie na targi przyjął między innymi 💥Marcin Drzewiecki - firma MARKOP który w tym czasie zakupił w naszej firmie najnowszy model ViO 23 👌😄 Sceneria targów wydawała się idealna by uwiecznić przekaznie krótkim materiałem video. Serdecznie dziękujemy za wybór marki Yanmar jak i docenienie naszej pracy jako dealera. Liczymy że to początek wspaniałej współpracy 😊<br/><br/>Zapraszam do obejrzenia i polubienia/udostępnienia naszego materiału 😍<br/><br/><br/>* Powyższe statystyki są szacunkowe, zasadniczo było co robić...😉 ...tylko Krzycha zmarszczki są real 😁</p><br/><br/> <p>Jesteś zainteresowany minikoparkami do 3 ton, midi do 8 ton, koparkami kołowymi, koparkami gąsienicowymi 8-12 ton, ładowarkami, wozidłami czy możliwym osprzętem ? Skontaktuj się z naszym brand managerem marki Yanmar  <strong>Krzysztof Grodzki, tel ☎<a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong> lub doradcą technicznym <strong>Piotrem Minczykowskim, tel ☎<a href=\"tel:+48 501 262 313\"> <i>501 262 313</i></a></strong>. Jesteśmy do Twojej dyspozycji 📱<br>Zadbamy o Twoj biznes w zakresie doboru odpowiednich maszyn i urządzeń. Serwis, części.. jesteśmy do dyspozycji. <a href=\"http://www.bax-maszyny.pl\">www.bax-maszyny.pl</a></p><p> 📣Udostępnij ten post, może zainteresujesz swoich znajomych 😀</p>",
+        "miniInfo": {
+            "fill": "#EFB22D",
+            "imgUrl": "assets/images/news/bax_budma-intermasz_2020_relacja_thumbnail.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#D62828",
+            "title": "MARKOP ViO23",
+            "url": "BUDMA-INTERMASZ-2020-BAX-przekazanie-VIO23-MARKOP-Marcin-drzewiecki"
+        }
+    },
+    {
+        "creationDate": "2020-01-24",
+        "id": "bax-yanmar-BUDMA-INTERMASZ-2020",
+        "title": {
+            "title": "BUDMA INTERMASZ 2020",
+            "shortTitle": "Zapraszamy na targi",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_budma-intermasz_yt_thumbnail.png",
+        "youtubeUrl": "https://youtu.be/SLLwVua6UvQ",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Serdecznie zapraszamy na targi <strong>BUDMA - INTERMASZ 😀</strong> Jesteśmy autoryzowanym przedstawicielem marki Yanmar Compact Equipment Europe i będziemy mieli przyjemność gościć na naszym stoisku p. Sylwie Keiner (Yanmar Business Manager) Odwiedź nas, porozmawiajmy o kopaniu...😉 Przekonaj się, że marka Yanmar jest stworzona dla Ciebie 👌</p><p>ZAPRASZAMY !<br/>Poznań, <strong>4-7 lutego 2020</strong> Pawilon <strong>7A</strong> stoisko 3</p><br/><br/> <p>Jesteś zainteresowany minikoparkami do 3 ton, midi do 8 ton, koparkami kołowymi, koparkami gąsienicowymi 8-12 ton, ładowarkami, wozidłami czy możliwym osprzętem ? Skontaktuj się z naszym brand managerem marki Yanmar  <strong>Krzysztof Grodzki, tel ☎<a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong> lub doradcą technicznym <strong>Piotrem Minczykowskim, tel ☎<a href=\"tel:+48 501 262 313\"> <i>501 262 313</i></a></strong>. Jesteśmy do Twojej dyspozycji 📱<br>Zadbamy o Twoj biznes w zakresie doboru odpowiednich maszyn i urządzeń. Serwis, części.. jesteśmy do dyspozycji. <a href=\"http://www.bax-maszyny.pl\">www.bax-maszyny.pl</a></p><p> 📣Udostępnij ten post, może zainteresujesz swoich znajomych 😀</p>",
+        "miniInfo": {
+            "fill": "#CEC1B5",
+            "imgUrl": "assets/images/news/bax_budma-intermasz_yt_thumbnail.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#EFB22D",
+            "title": "BUDMA INTERMASZ 2020",
+            "url": "bax-yanmar-BUDMA-INTERMASZ-2020"
+        }
+    },
+    {
+        "creationDate": "2020-01-09",
+        "id": "bax-yanmar-promocja-styczen-2020-gasienice",
+        "title": {
+            "title": "Promocja na Gąsienice",
+            "shortTitle": "Oryginalne części Yanmar",
+            "subtitle": "Styczeń 2020"
+        },
+        "imgUrl": "assets/images/news/BAX_Yanmar_Promotion_2020_01_0.75x.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Styczeń miesiącem GĄSIENIC. Yanmar Compact Equipment Europe ugotowało promocję na oryginalne części 😀 Zasadniczo: -15% 😎 <br />Dzwońcie do Majami'ego i spytajcie o extra procent... Gość zna sztuczki 😉 sprzedażowy MAGIK 🤩</p><p>💥 UWAGA promocja ograniczona czasowo - do końca stycznia 2020💥</p><p>-- Części zamienne --<br /><p>Dział części: <strong>Krzysztof Bereźnicki</strong> aka \"Majami\" <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a></p><p>Szukasz części marki CASE chcesz zrobić przegląd maszyny, warto zrobić to teraz i wykorzystać wyjątkowo niskie ceny jakie dla Was przygotowaliśmy.</p>",
+        "miniInfo": {
+            "fill": "#CE1126",
+            "imgUrl": "assets/images/news/BAX_Yanmar_Promotion_2020_01_0.75x.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#002B7F",
+            "title": "Promocja na gąsienice",
+            "url": "bax-yanmar-promocja-styczen-2020-gasienice"
+        }
+    },
+    {
+        "creationDate": "2020-01-01",
+        "id": "podsumowanie-roku-2019",
+        "title": {
+            "title": "2019 - DOBRY ROK",
+            "shortTitle": null,
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_2019_recap_thumbnail.jpg",
+        "youtubeUrl": "https://youtu.be/wh0JqhBfsSA",
+        "youtubeEmbedUrl": null,
+        "text": "<p>😀 Nowy rok, ten dzień po sylwestrowej imprezie 🍷🍾, to zazwyczaj moment na podsumowania, próbę przypomnienia sobie \"co to ja wczoraj...\"❓ ..i ta legendarna już łatwość składania obietnic, postanowień, zaklinania że \"NA PEWNO... \" albo \"już NIGDY więcej...\" 😊</p><p>My również przygotowaliśmy małe podsumowanie 2019 roku, bo to był... naprawdę DOBRY ROK 💥👌</p><p>Jesteśmy firmą sprzedającą i serwisującą markowy sprzęt - maszyny Sennebogen, Yanmar Compact Equipment Europe To sprawdzone, solidne marki.. Nie jesteśmy jedyni na rynku 😉 jednak to co chcielibyśmy by zostało zauważone przez naszych kontrahentów to sposób w JAKI to robimy: z uśmiechem, polotem zachowując profesjonalizm i pełne zaangażowanie...😍</p><p>Z mocnych postanowień, chcielibyśmy utrzymać ten kierunek, nawiązywać kolejne owocne współprace i dalej robić różnicę w branży...<br/>Jakie są Wasz postanowienia ? Głowa przestała już boleć ?😉</p><p>Zobaczcie wycinki, często niezamieszczone w publikowanch klipach, z naszych sfilmowanych akcji w 2019 roku..🤣 Jak Wam się podobają ?</p>",
+        "miniInfo": {
+            "fill": "#00305E",
+            "imgUrl": "assets/images/news/bax_2019_recap_thumbnail.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#FFCC1E",
+            "title": "2019 - DOBRY ROK",
+            "url": "podsumowanie-roku-2019"
+        }
+    },
+    {
+        "creationDate": "2019-12-30",
+        "id": "zyczeniaNaRok2020",
+        "title": {
+            "title": "Wszystkiego dobrego w 2020",
+            "shortTitle": null,
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_zyczeniaNoworoczne2020.png",
+        "youtubeUrl": "https://youtu.be/YRZ_rwtabsQ",
+        "youtubeEmbedUrl": null,
+        "text": "<p>💥Pani Prezes Agnieszka Bax przesyła życzenia noworoczne.</p><p>PS: Dla zainteresowanych; zapraszamy do naszej siedziby w Suchym lesie, tam mamy \"prawie\" równie piękne widoki 😉<br />Wszystkiego dobrego w 2020 💗😀</p>",
+        "miniInfo": {
+            "fill": "#93C6E0",
+            "imgUrl": "assets/images/news/bax_zyczeniaNoworoczne2020.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#1EB53A",
+            "title": "Wszystkiego dobrego w 2020",
+            "url": "zyczeniaNaRok2020"
+        }
+    },
+    {
+        "creationDate": "2019-12-20",
+        "id": "bax-gwiazdka-2019",
+        "title": {
+            "title": "Spokojnych Świąt",
+            "shortTitle": "Czy pamietał o Was Mikołaj ?",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_gwiazdka_2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>❄🎅 HO HO HO 😃 Tradycyjnie w naszym regionie: Zdrowych spokojnych świąt 🌲😍Santa w pełnej gotowości by tym razem nie zawieść oczekiwań ! Przypominamy: prawidłowo napisany list do Świętego Mikołaja powinien zawierać odpowiednie wcięcia i akapity, sugerowany rozmiar czcionki to 16px a odstępy między wierszami to 1,5 linii = niby pierdoły ale SANTA WIDZI WSZYSTKO ! //później się nie dziwić, że ZNOWU skarpetki czy kiepskie nivea pod choinką znajdujecie..😉</p><p>Wszystkim życzymy booogatego gwiazdora 🎁, natomiast dla tych którzy jeszcze nie mają pomysłu na WYJĄTKOWY prezent, zapraszamy do kontaktu: Mikolaj Lewkowicz, Filip Radlak, doradzą przy wyborze maszyny przeładunkowej.. jeśli to pierwszy zakup może coś mniejszego - Sennebogen 817E ? jeśli zawodowo jej nie wykorzystamy to zawsze spełni się w domu, przecież każdy zna powiedzenie: \"NIE MA TEGO ZŁOMU CO SIĘ NIE PRZYDA W DOMU\"..😃</p><p>Równie dobrym pomysłem jest mała Yanmar Compact Equipment Europe SV18, o ile wygodniej byłoby znaleźć coś w szafie mając taki sprzęt do kopania..🤔 W wyborze tutaj na pewno doskonale doradzą Krzysztof Grodzki lub Piotr Minczykowski<br/>Jesteśmy do dyspozycji, doradzamy w każdym temacie</p><p><strong>Spokojnych 🎁</strong></p>",
+        "miniInfo": {
+            "fill": "#C4D8E2",
+            "imgUrl": "assets/images/news/bax_gwiazdka_2019.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#E8112D",
+            "title": "Spokojnych Świąt",
+            "url": "bax-gwiazdka-2019"
+        }
+    },
+    {
+        "creationDate": "2019-12-06",
+        "id": "bax-mikolajki-2019",
+        "title": {
+            "title": "Mikołajki 2019",
+            "shortTitle": "Czy pamietał o Was Mikołaj ?",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_mikolajki_2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Jak obchodzicie Mikołajki ? Bo wersji jest sporo..😃 a to but musi być 👠 wyczyszczony 👞 by choćby słodkości gdzieś się znalazły 🍬 ..po \"spontaniczne\" chwilówki i na GRUBO: telefony, telewizory, KOPARKI ❗</p><p>Jakie są Wasze rodzinne tradycje ? no i przede wszystkim CZY PAMIĘTAŁ O WAS MIKOŁAJ ❓</p>",
+        "miniInfo": {
+            "fill": "#C4D8E2",
+            "imgUrl": "assets/images/news/bax_mikolajki_2019.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#006B3F",
+            "title": "Mikołajki 2019",
+            "url": "bax-mikolajki-2019"
+        }
+    },
+    {
+        "creationDate": "2019-11-27",
+        "id": "bax-black-friday-2019",
+        "title": {
+            "title": "BLACK FRIDAY",
+            "shortTitle": "2019",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_blackFriday_2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>💥 Black BLACK FRIDAY 💥 29 listopada, najczarniejszy piątek w roku. Puszczamy ORYGINALNE części Yanmar Compact Equipment Europe z 25% upustem 👌 Każdy doskonale zdaje sobie sprawę że to prawdziwe wyprzedażowe szaleństwo 👀 ..Skoro black friday to naprzód 💵💗😀<br/>PS krążą ploty po Suchym że Majami (Krzysztof Bereźnicki) ma dodatkowo przygotowane TOTALNE 🧹 wyprzedażowe strzały, nawet do 70%❗ Jest jeszcze czas, by pożyczyć kasę od szwagra i TYM razem, dobrze ją wydać.. 😉<br/>Zadzwoń i sprawdź czy to czego szukasz dostaniesz na najlepszych warunkach właśnie u niego:</p></p><p>Dział części: <strong>Krzysztof Bereźnicki</strong> aka \"Majami\" <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a></p><p>Szukasz części marki CASE Construction Equipment chcesz zrobić przegląd maszyny, warto zrobić to teraz i wykorzystać wyjątkowo niskie ceny jakie dla Was przygotowaliśmy</p>",
+        "miniInfo": {
+            "fill": "#282821",
+            "imgUrl": "assets/images/news/bax_blackFriday_2019.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#D81E05",
+            "title": "Black Friday 2019",
+            "url": "bax-black-friday-2019"
+        }
+    },
+    {
+        "creationDate": "2019-11-21",
+        "id": "czasNaNowaMaszyneYanmar-Y-Finance",
+        "title": {
+            "title": "Czas na nową maszynę Yanmar",
+            "shortTitle": "Finansowanie Yanmar",
+            "subtitle": "25% wkładu własnego, pierwsze 3msc bez opłaty"
+        },
+        "imgUrl": "assets/images/news/bax_czasNaNowaMaszyneYanmar_Y_Finance_2019.png",
+        "youtubeUrl": "https://youtu.be/wcsNMFnEgIA",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Obok takich ofert nie można przejść obojętnie.☝ Yanmar Y Finance zaproponowało bardzo ciekawy produkt finansowy który pozwoli Twojej firmie SZEROKO rozwinąć skrzydła 📈<br/>Dysponując jedynie 25%😲 wkładem własnym, NOWA maszyna Yanmar zwiększy potencjał Twojej firmy 💪 Przyśpieszy finalizowanie inwestycji jak i pozwoli z większym przekonaniem podejmować kolejne wyzwania, startować do nowych przetargów, angażować się w dużych projektach. Dodatkowym atutem jest 3 miesięczna karencja. Coo ❓ Tak, maszyna może zarabiać na siebie a Ty przez pierwsze 3 miesiące nie zapłacisz ani złotówy..❗<br/>Koniec roku to również czas by przeanalizować księgi.. Często, przewrotnie, okazuje się że WYDAĆ oznacza ZAOSZCZĘDZIĆ..[dużo by gadać, więc KONIECZNIE zapytaj swoją księgową..] 😉<br/>To nie miejsce by rozpływać się nad WYSOKĄ jakością maszyn Yanmar, nad faktem jak dobrze utrzymuje swoją cenę na rynku wtórnym. To fakty które gwarantują jej ewentualną dobrą 💲 sprzedaż po zakończeniu okresu finansowania. Wykup dla leasingu operacyjnego wynosi 1%<br/>Na każdym kroku można liczyć na nasze wsparcie. Od wyboru maszyny, osprzętu po pomoc w rozmowach z bankiem - jesteśmy z Wami, dla Was 😃 Jesteśmy gotowi umówić się na prezentacje i zrobić test w Twoich warunkach pracy. Przekonasz się jak dobrym wyborem jest marka Yanmar ❣</p>",
+        "miniInfo": {
+            "fill": "#933311",
+            "imgUrl": "assets/images/news/bax_czasNaNowaMaszyneYanmar_Y_Finance_2019.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#F74902",
+            "title": "Y Finance 2019",
+            "url": "czasNaNowaMaszyneYanmar-Y-Finance"
+        }
+    },
+    {
+        "creationDate": "2019-11-08",
+        "id": "kontrakt-25xsv18",
+        "title": {
+            "title": "Big deal",
+            "shortTitle": "25x SV18",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_bigDeal_25x_sv18.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>📣 Mamy przyjemność pochwalić się nie lada wyczynem jaki udało nam się osiągnąć; pieczętując przekazaniem 25 maszyn Yanmar SV18 do dziesięciu lokalizacji w całej Polsce w terminie 3 dni 😲😤<br/><strong>...jeszcze raz: 25 maszyn w 10 lokalizacji w 3 dni ❗💥 😮</strong><br/>Kilka miesięcy temu wystartowaliśmy w wyjątkowo wymagającym przetargu dla dużego kontrahenta. Włożyliśmy w to mnóstwo pracy i extra zaangażowania ponieważ jeszcze nigdy (zgodnie z naszą wiedzą) maszyny Yanmar na polskim rynku nie wygrały tak dużego konkursu ofert.<br/>Jesteśmy niezmiernie dumni, że jako pierwsi możemy poszczycić się takim sukcesem ✌️ Przepełnia nas ogromna duma, że przyczyniamy się do coraz lepszego postrzegania marki Yanmar w Polsce. Wysoka jakość maszyn doceniana jest zarówno przez mikro, średniej wielkości firmy jak i dużych graczy 💪 czego najlepszym dowodem jest ten wynik 👌<br/>Operacja dostarczania maszyn była pierwszym dowodem naszych kompetencji. ...<strong>w 3 dni ❗❗❗❓</strong> ..TAK, zrobiliśmy to ❗ (rzeczy niemożliwe od ręki, cuda do trzech dni !)<br/>        Miło jest pisać My w kontekście tego sukcesu i na pewno gdyby nie zaangażowanie DOSŁOWNIE każdego pracownika w firmie nie udało by się tego osiągnąć, jednak to przede wszystkim <strong>Krzysztof Grodzki</strong> wraz z <strong>Piotrem Minczykowskim</strong> byli mózgami tej operacji. To ich zaangażowanie praktycznie na każdym, nawet najdrobniejszym kroku, dało ten efekt.<br/>Serdeczne podziękowanie dla naszych dealerów jak i całego teamu BAX</p>",
+        "miniInfo": {
+            "fill": "#E87511",
+            "imgUrl": "assets/images/news/bax_bigDeal_25x_sv18.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#A3A8A3",
+            "title": "Big deal",
+            "url": "kontrakt-25xsv18"
+        }
+    },
+    {
+        "creationDate": "2019-10-26",
+        "id": "siedziba_bax_w_halloween",
+        "title": {
+            "title": "Halloween 2019",
+            "shortTitle": "Siedziba BAX",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_halloween_2019.png",
+        "youtubeUrl": "https://youtu.be/D2wsLj8qdws",
+        "youtubeEmbedUrl": null,
+        "text": "<p>🤯..Przeszedł dreszcz ❓😧 UDOSTĘPNIJ 😀👍📣<br/>☝ Zanim odtworzysz: <ol><li>Pełen ekran (full screen),</li><li>Dżwięk na maxa (!) - sounds ON 💥📣</li></ol></p>",
+        "miniInfo": {
+            "fill": "#2B2B28",
+            "imgUrl": "assets/images/news/bax_halloween_2019.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#F47C00",
+            "title": "Halloween 2019",
+            "url": "siedziba_bax_w_halloween"
+        }
+    },
+    {
+        "creationDate": "2019-10-26",
+        "id": "eRobocze-2019-GrodziskMazowiecki",
+        "title": {
+            "title": "eRobocze 2019",
+            "shortTitle": "Grodzisk Mazowiecki",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_eRobocze_2019_GrodziskMazowiecki.jpg",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Zapraszamy do przejrzenia galerii na naszym profilu FB <a href=\"https://www.facebook.com/pg/BAXmaszyny/photos/?tab=album&album_id=780022355780052/\">facebook eRobocze Grodzisk Mazowiecki</a></p>",
+        "miniInfo": {
+            "fill": "#21543F",
+            "imgUrl": "assets/images/news/bax_eRobocze_2019_GrodziskMazowiecki.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#FFCC1E",
+            "title": "eRobocze Grodzisk Maz",
+            "url": "eRobocze-2019-GrodziskMazowiecki"
+        }
+    },
+    {
+        "creationDate": "2019-10-25",
+        "id": "somr-vs-bax-rewanz-za-sosnowiec",
+        "title": {
+            "title": "SOMR vs BAX",
+            "shortTitle": "mecz przed eRobocze",
+            "subtitle": "Józefina"
+        },
+        "imgUrl": "assets/images/news/bax-somr_rewanz_przed_eRobocze_grodzisk_mazowiecki.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>⚽ REWANŻOWY Mecz piłkarski ⚽ pomiędzy drużynami Stowarzyszenie Operatorów Maszyn Roboczych Operator a drużyną BAX<br/>Przypominamy że do pierwszej potyczki doszło na dzień przed e-Robocze w Sosnowcu tego roku i zwycięską drużyną okazała się ekipa BAX; Wynik 2:12 😕 musiał skłonić Prezesa drużyny Zbigniew Migda do refleksji i po dogłębnej analizie meczu wyzwał drużynę BAX na rewanż... <br/>Odpowiedź była NATYCHMIASTOWA - GRAMY 🔥💪👍</p> <p></p>Wielki rewanż za Sosnowiec ⚽ ekipa SOMR vs BAX Wynik końcowy 7:15 🍾💪 BAX zwycieża❗<br/>To na pewno był trudniejszy mecz aniżeli ten sprzed kilku miesięcy w Sosnowcu jednak ekipa BAX ponownie dobrze przygotowana kondycyjnie, nieustannie poprawiająca technikę gry i wszystkie te czynniki przełożyły się na korzystny wymik końcowy. <strong>Gratulacje</strong>Statystyki z meczu pewnie będą dostępne w oddziale FIFA (warto spytać) natomiast subiektywnie przez pixelowy filtr najlepszym zawodnikiem był Krzysztof Kijanowski 😀👏🍾reprezentant BAX team, wieloletni pracownik w dziale serwisu. Dobry zarówno na bramce (grał w Sosnowcu) w obronie jak i w ataku ❗ Istnieje obawa że w tym pędzie tuż po weekendzie zaatakuje zarząd BAX prośbą o podwyżkę.. co zrobić...<br/>Co za mecz 💥 Dla chętnych postaramy się przygotować specjalną wersję kolekcjonerską tego meczu, będzie dostępna na kasetach VHS, TYLKO w DOBRYCH wyporzyczalniach na terenie kraju 😋 <p>💥<br/> Sprawdź materiały dotyczące wydarzenia <a href=\"https://www.facebook.com/events/957669984594787/\">facebook event: BAX vs SOMR, rewanż za Sosnowiec ?</a></p>",
+        "miniInfo": {
+            "fill": "#C4E58E",
+            "imgUrl": "assets/images/news/bax-somr_rewanz_przed_eRobocze_grodzisk_mazowiecki.png",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#00AACC",
+            "title": "SOMR vs BAX, REWANŻ",
+            "url": "somr-vs-bax-rewanz-za-sosnowiec"
+        }
+    },
+    {
+        "creationDate": "2019-10-04",
+        "id": "international-scrap-challenge-inowroclaw-2019",
+        "title": {
+            "title": "ISC Pierwsza Edycja",
+            "shortTitle": "Inowrocław 2019",
+            "subtitle": "Międzynarodowe Mistrzostwa Operatorów Maszyn"
+        },
+        "imgUrl": "assets/images/news/InternationalScrapChallenge_16x9.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Międzynarodowe Zawody Operatorów Maszyn 😄💪👀<br/>Trzyosobowe zespoły..<br/>Pierwsza taka impreza w Polsce 💥<br/>Trzy wymagające konkurencje<br/>Liczy sie CZAS, PRECYZJA I STYL</p><ul><li>11:00&emsp;powitanie uczestników konkursów oraz zaproszonych gości</li><li>11:15&emsp;prezentacja zadań konkursowych i losowanie list startowych.</li><li>11:30&emsp;rozpoczęcie zawodów, I seria (drużyny 3 osoby po jednej na każdą z maszyn)</li><li>13:30-14:00&emsp;zliczenie i ogłoszenie wyników I serii</li><li>14:00&emsp;rozpoczęcie serii finałowej (5 ekip)</li><li>16:00&emsp;ogłoszenie wyników i wręczenie nagród w klasyfikacji grupowej i indywidualnej ( sponsorzy)</li><li>16:30&emsp;oficjalne zakończenie zawodów</li></ul><p>Będziemy tam dla Was i NA BOGATO będziemy dla Was relacjonować przebieg imprezy; PONOĆ mają być ekipy z popularnego serialu Złomowisko PL ekipa Olmet. Inspiruje nas ZŁOM <br/>💥 WYJĄTKOWA IMPREZA 💥<br/>Dołącz do wydarzenia <a href=\"https://www.facebook.com/events/2567961553225472/\">facebook event: International Scrap Challenge Inowrocław 2019</a> i bądź tam z nami ❗❗❗</p>",
+        "miniInfo": {
+            "fill": "#002B7F",
+            "imgUrl": "assets/images/news/InternationalScrapChallenge_16x9.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#AAAAAA",
+            "title": "ISC Pierwsza Edycja",
+            "url": "international-scrap-challenge-inowroclaw-2019"
+        }
+    },
+    {
+        "creationDate": "2019-08-08",
+        "id": "bax-tak-dzialamy-na-slasku-Trade-Trans-Expert-Czaicki-Czaicki-przekazanie-sennebogen-835E",
+        "title": {
+            "title": "Trade Trans Expert Czaicki i Czaicki",
+            "shortTitle": "Przekazanie Sennebogen 835E",
+            "subtitle": "TAK działamy na Śląsku"
+        },
+        "imgUrl": "assets/images/news/baxTakDzialamyNaSlasku_Trans_trade_expert_Czaicki_Czaicki.jpg",
+        "youtubeUrl": "https://youtu.be/wmwT5jZD2sw",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Pomimo zapewnień naszego handlowca Mikołaja Lewkowicza, że na Śląsku słoneczna 🌞 pogoda jest ZAWSZE, ..to akurat się nie udało ☔ Natomiast mieliśmy niesamowitą okazję dostarczyć kolejną maszynę do firmy <strong>Trade & Trans Expert Czaicki i Czaicki Sp. J.</strong> <br/>Transport, jak zwykle profesjonalnie i bezpiecznie, obsłużyła firma <strong>SACHS TRANS</strong> której serdecznie dziękujemy 👏</p><p>Maszyny <strong>Sennebogen</strong> słyną z rozwiązania polegającego na możliwości uniesienia kabiny do góry. W modelu <strong>835</strong> mamy opcję wysunięcia jej dodatkowo do przodu na odległość 2m. Zwiększa zakres widoczności operatora przy rozładunku, w tym przypadku, dosłownie może 👀 zajrzeć do 🚃wagonu. Jest to niestandardowe rozwiązanie, ale jesteśmy przekonani że będzie cieszyło się uznaniem. </p><p>Korzystając z okazji przedstawiamy również maszynę którą Mikołaj Lewkowicz dostarczył w zeszłym roku. Jest to <strong>Sennebogen 870</strong> 👌 z trawersem magnetycznym który waży ok 12ton i czterema magnesami, pozwalająca unosić materiał o wadze do 10t 💪. Szybka kalkulacja wskazuje ze 870 bez problemu radzi sobie z udźwigiem ok 20-25ton. Rozwiązanie to pozwala ograniczyć czas rozładunku wagonu do ok ⏱ 15-20min i może być wykonywane przez  jedną osobę. <br/>Panowie <strong>Piotr Czaicki i Roman Czaicki</strong>, jak zwykle na wysokich obrotach, niewielu jest w stanie dotrzymać im kroku. Współpraca z nimi, pomimo wysoko zawieszonej poprzeczki, daje nam ogromną satysfakcję. Motywuje nas do jeszcze cięższej pracy, gdy to nasza firma jest wybierana jako dostawca kolejnych maszyn.</p><br/><p>Zapraszamy do polubienia i udostępnienia naszego materiału 😀 Jesteś zainteresowany zakupem maszyn do branży złomowej, drzewnej czy recyklingowej ? <p>Skontaktuj się z nami: </p><br/><p><strong>Mikołaj Lewkowicz<strong><br/><small><em>(dealer marki <strong>Sennebogen</strong>, odpowiedzialny za region Śląsk)</small></em></small><br/>tel ☎<a href=\"tel:+48 513 132 688\"> <i>513 132 688</i></a><br/>📧<a href=\"mailto:m.lewkowicz@bax-maszyny.pl\">m.lewkowicz@bax-maszyny.pl</a></p><br/><p><strong>Filip Radlak</strong><br/><small><em>(dealer marki <strong>Sennebogen</strong>)</em></small><br/>tel ☎<a href=\"tel:+48 513 132 686\"> <i>513 132 686</i></a><br/>📧<a href=\"mailto:f.radlak@bax-maszyny.pl\">f.radlak@bax-maszyny.pl</a></p>",
+        "miniInfo": {
+            "fill": "#C4D8E2",
+            "imgUrl": "assets/images/news/baxTakDzialamyNaSlasku_Trans_trade_expert_Czaicki_Czaicki.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#F95951",
+            "title": "TTE - Zenek 835E",
+            "url": "bax-tak-dzialamy-na-slasku-Trade-Trans-Expert-Czaicki-Czaicki-przekazanie-sennebogen-835E"
+        }
+    },
+    {
+        "creationDate": "2019-08-01",
+        "id": "kopanieToNaszaPasja-przekazanie-Oll-Bud-Jacek-Urbaniak-ViO-33",
+        "title": {
+            "title": "Oll Bud",
+            "shortTitle": "Przekazanie ViO 33",
+            "subtitle": "KopanieToNaszaPasja"
+        },
+        "imgUrl": "assets/images/news/bax_kopanieToNaszaPasja_Oll_Bud_Jacek_Urbaniak.jpg",
+        "youtubeUrl": "https://youtu.be/mfj1OvFVKug",
+        "youtubeEmbedUrl": null,
+        "text": "<p>🏖 W wakacyjnej, słonecznej 🌞 atmosferze mieliśmy przyjemność 😀przekazać do naszego klienta, firmy Oll Bud Jacek Urbaniak maszynę Yanmar ViO 33 😄 Zapraszamy do obejrzenia krótkiej relacji z przekazania maszyny 📽</p><p>Firma Oll Bud Jacek Urbaniak w swojej ofercie ma następujące pozycje: <ul><li>💥 budowa linii kablowych Sn ,Nn</li><li>💥 budowa stacji transformatorowych</li><li>💥 budowa linii optotelekomunikacyjnych</li><li>💥 wykopy liniowe</li><li>💥 oświetlenie drogowe</li><li>💥 przewierty sterowane</li><li>💥 przeciski pod drogami</li></ul>Gorąco polecamy usługi firmy Oll Bud, wszystkich zainteresowanych zapraszamy do kontaktu: <strong>p. Jacek Urbaniak, tel ☎<a href=\"tel: +48 604 199 393\"><i>+48 604 199 393</i></a></strong></p><br /><p><p>YANMAR to twórca koncepcji ViO ☝ ma niezrównane doświadczenie w tworzeniu minikoparek zeroobrotowych. Umożliwia to pełen obrot górnej części maszyny w swoim obrysie. Jak dodać do tego układ hydrauliczny ViPPS, oraz najnowsza wersje silników, to mamy optymalizacje wydajności nawet w wąskich przestrzeniach ❗🥇 Przy charakterystyce prac firmy OLL Bud, Pana Jacka Urbaniaka wybór mógł być tylko jeden .... ViO 33-6 ❗</p><br /><p>Jesteś zainteresowany minikoparkami do 3 ton, midi do 8 ton, koparkami kołowymi, koparkami gąsienicowymi 8-12 ton, ładowarkami, wozidłami czy możliwym osprzętem ? Skontaktuj się z naszym brand managerem marki Yanmar  <strong>Krzysztof Grodzki, tel ☎<a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong> lub doradcą technicznym <strong>Piotrem Minczykowskim, tel ☎<a href=\"tel:+48 501 262 313\"> <i>501 262 313</i></a></strong>. Jesteśmy do Twojej dyspozycji 📱<br>Zadbamy o Twoj biznes w zakresie doboru odpowiednich maszyn i urządzeń. Serwis, części.. jesteśmy do dyspozycji. <a href=\"http://www.bax-maszyny.pl\">www.bax-maszyny.pl</a></p><p> 📣Udostępnij ten post, może zainteresujesz swoich znajomych 😀</p>",
+        "miniInfo": {
+            "fill": "#F9E27F",
+            "imgUrl": "assets/images/news/bax_kopanieToNaszaPasja_Oll_Bud_Jacek_Urbaniak.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#FF5416",
+            "title": "Oll Bud ViO 33",
+            "url": "kopanieToNaszaPasja-przekazanie-Oll-Bud-Jacek-Urbaniak-ViO-33"
+        }
+    },
+    {
+        "creationDate": "2019-07-09",
+        "id": "bax-tak-dzialamy-na-slasku-stilmar-przekazanie-sennebogen-821E",
+        "title": {
+            "title": "STILMAR",
+            "shortTitle": "Przekazanie Sennebogen 821E",
+            "subtitle": "TAK działamy na Śląsku"
+        },
+        "imgUrl": "assets/images/news/bax_takDzialamyNaSlasku_stilmar.jpg",
+        "youtubeUrl": "https://youtu.be/OH5cJBbXaKk",
+        "youtubeEmbedUrl": null,
+        "text": "<p>🚚 Dostarczamy do naszego kontrahenta, p. <strong>Michała Dobrzyńskiego</strong> - firma <strong>STILMAR</strong>, maszynę przeładunkową <strong>Sennebogen 821E</strong>😍 wraz z dodatkowym osprzętem (generator, chwytak, magnes). Maszyna dedykowana jest do branży recyklingowej ♻ </p><p>Zobaczcie naszą załogę pod przewodnictwem <strong>Mikolaj Lewkowicz</strong> w akcji.👌 Profesjonalny, błyskotliwy przedstawiciel marki, wykwalifikowany, błyskawicznie działający serwis, radzący sobie w każdej sytuacji, 💪 posiadający ogromne doświadczenie w obsłudze maszyn przeładunkowych i nie tylko 👍 <br/>Zaproponowaliśmy kilka dni testów maszyny <strong>Sennebogen 355E</strong>, o parametrach 5,5t udźwigu jaki 8,5m wysuwu, która w naszym przekonaniu, rewelacyjnie sprawdzi się w firmie <strong></strong>.😃</p><p>Zapraszamy do polubienia i udostępnienia naszego materiału 😀 Jesteś zainteresowany zakupem maszyn do branży złomowej, drzewnej czy recyklingowej ? <p>Skontaktuj się z nami: </p><br/><p><strong>Mikołaj Lewkowicz<strong><br/><small><em>(dealer marki <strong>Sennebogen</strong>, odpowiedzialny za region Śląsk)</small></em></small><br/>tel ☎<a href=\"tel:+48 513 132 688\"> <i>513 132 688</i></a><br/>📧<a href=\"mailto:m.lewkowicz@bax-maszyny.pl\">m.lewkowicz@bax-maszyny.pl</a></p><br/><p><strong>Filip Radlak</strong><br/><small><em>(dealer marki <strong>Sennebogen</strong>)</em></small><br/>tel ☎<a href=\"tel:+48 513 132 686\"> <i>513 132 686</i></a><br/>📧<a href=\"mailto:f.radlak@bax-maszyny.pl\">f.radlak@bax-maszyny.pl</a></p>",
+        "miniInfo": {
+            "fill": "#D3E8A3",
+            "imgUrl": "assets/images/news/bax_takDzialamyNaSlasku_stilmar.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#60C659",
+            "title": "STILMAR - Zenek 821E",
+            "url": "bax-tak-dzialamy-na-slasku-stilmar-przekazanie-sennebogen-821E"
+        }
+    },
+    {
+        "creationDate": "2019-07-03",
+        "id": "serwis-regeneracja-polaczen-sworzniowo-tulejowych",
+        "title": {
+            "title": "Regeneracja",
+            "shortTitle": "skrawanie/napawanie",
+            "subtitle": "połączeń sworzniowo-tulejowych"
+        },
+        "imgUrl": "assets/images/news/bax_regeneracja_yt_mini.jpg",
+        "youtubeUrl": "https://youtu.be/Akc0FyjcF_g",
+        "youtubeEmbedUrl": null,
+        "text": "<p>📢 BAX SERWIS poleca 😄 ..Drugie, kolejne życie Twojego chwytaka...😉👌🎊 <br>Wykonujemy regenerację połączeń sworzniowo-tulejowych w zakresie od 40mm-200mm metodą SKRAWANIE/NAPAWANIE </p><p>Oferta dedykowana dla maszyn przeładunkowo-kopiących ☝</p><p>✅ Pełna regeneracja chwytaków z wymianą zębów i uszkodzonych elementów w tym siłowników, lemieszy... <br>Usługę świadczymy stacjonarnie w naszym serwisie (Suchy Las, Wierzbowa 2) jednak istnieje możliwość wykonania regeneracji u klienta po wcześniejszym ustaleniu warunków.</p><p>Chcesz wiedzieć więcej ? <p>Skontaktuj się z nami: </p><p> <strong>Robert Tataruk, tel ☎<a href=\"tel:+48 513 078 884\"> <i>513 078 884 🔔</i></a></strong> <em>(szef serwisu)</em></p> <p>Dysponujemy profesjonalnym sprzętem marki Lincoln Electric jak i wyspecjalizowaną kadrą. Skutecznie, szybko, w dobrej cenie 💲</p> <p>Serdecznie zapraszamy 😀</p>",
+        "miniInfo": {
+            "fill": "#007AA5",
+            "imgUrl": "assets/images/news/bax_regeneracja_yt_mini.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#E8112D",
+            "title": "Regeneracja",
+            "url": "serwis-regeneracja-polaczen-sworzniowo-tulejowych"
+        }
+    },
+    {
+        "creationDate": "2019-06-21",
+        "id": "kopanieToNaszaPasja-przekazanie-wald-bruk-sv26-hunklinger-p12-profi",
+        "title": {
+            "title": "Wald-Bruk, chwytak Hunklinger P12 Profi",
+            "shortTitle": "KopanieToNaszaPasja",
+            "subtitle": "przekazanie i instruktaż"
+        },
+        "imgUrl": "assets/images/news/kopanieToNaszaPasja_wald_bruk_SV26_hunklinger_p12.jpg",
+        "youtubeUrl": "https://youtu.be/lqvK0GZfcuc",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Relacja 📽 z przekazania i instruktażu Yanmar SV 26 wraz z opcjonalnym osprzętem: Hunklinger (Serafin-maszyny): Chwytak <strong>Hunklinger P12 PROFI</strong> oraz chwytak <strong>Hunklinger S100</strong>. 🤗 </p><p> Naszym klientem jest firma Brukarstwo Usługowe Wald-Bruk Walczyk która od prawie 15 lat specjalizuje się w robotach drogowo - brukarskich. 💪 <br>Nieustanny wyścig w doskonaleniu swojej usługi doprowadził do zakupu w naszej firmie Yanmara S26 z chwytakami do układania KOSTKI BRUKOWEJ.👏 Ich hasło świetnie oddaje profesjonalizm jaki reprezentują: <i>\"Praca z nami to BEZSTRESOWA inwestycja\" ☝</i><br> Szukasz sprawdzonej firmy do ułożenia kostki - skontaktuj się z <strong>Tomasz Walczyk, tel ☎<a href=\"tel:+48 506 145 751\"> <i>506 145 751</i></a></strong>, <a href=\"http://www.waldbruk.pl\" target=\"_blank\">www.waldbruk.pl</a> <br> Zainteresowany podobnym rozwiązaniem ? <p>Skontaktuj się z nami: </p><p><strong>Krzysztof Grodzki, tel ☎<a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong> <em>(brand manager)</em><p> Dbamy o Twoj biznes w zakresie doboru odpowiednich maszyn i urządzeń. Serwis, części.. jesteśmy do dyspozycji. <br>📣Udostępnij ten post, może zainteresujesz swoich znajomych 😀</p>",
+        "miniInfo": {
+            "fill": "#FFCC1E",
+            "imgUrl": "assets/images/news/kopanieToNaszaPasja_wald_bruk_SV26_hunklinger_p12.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#00B59B",
+            "title": "Wald-Bruk",
+            "url": "kopanieToNaszaPasja-przekazanie-wald-bruk-sv26-hunklinger-p12-profi"
+        }
+    },
+    {
+        "creationDate": "2019-06-20",
+        "id": "bax-300-likes",
+        "title": {
+            "title": "BAX 300 Likes",
+            "shortTitle": "Zbieramy Armię 300",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax_300_likes.jpg",
+        "youtubeUrl": "https://youtu.be/0Jt_TT6kyfo",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Zbieramy <strong>Armię \"300.. \" like'ów</strong> 👍😍💪 i jesteśmy blisko celu. Udostępnij ten post, zaproś znajomych do polubienia naszego profilu. <a href=\"https://facebook.com/baxMaszyny\">facebook/BAXmaszyny </a> Sprzedajemy maszyny budowlane SENNEBOGEN Maschinenfabrik GmbH, Yanmar Compact Equipment Europe, doradzamy w wyborze osprzętu, naprawiamy, regenerujemy, sprzedajemy części do maszyn.. <strong>COKOLWIEK ROBIMY, ROBIMY TO Z PASJĄ ❤ I POLOTEM 😉</strong> <br>Poznajmy się, ..i tylko Ciebie brak 👍</p>",
+        "miniInfo": {
+            "fill": "#723F0A",
+            "imgUrl": "assets/images/news/bax_300_likes.jpg",
+            "invert": false,
+            "isExternalUrl": false,
+            "pointer": "#60330A",
+            "title": "BAX 300 Likes",
+            "url": "bax-300-likes"
+        }
+    },
+    {
+        "creationDate": "2019-06-06",
+        "id": "bax-eRobocze-Sosnowiec-mecz-SOMR-VS-BAX",
+        "title": {
+            "title": "SOMR vs BAX",
+            "shortTitle": "nowe El Classico",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/eRobocze_sosnowiec_mecz_somr-vs-bax.png",
+        "youtubeUrl": "https://youtu.be/0Jt_TT6kyfo",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Już jutro👍 19:30. Sosnowiec, boisko przy ul Kresowej.. Planowane od miesięcy starcie drużyn ekip SOMR (Stowarzyszenie Operator) oraz BAX Team 🎉</p><p>📺 Niezliczona ilość stacji telewizyjnych, (z naciskiem na niezliczona) korespondentów medialnych 📰 ludzi znanych i lubianych. Wszyscy Ci być może pojawią się podczas tego meczu. Nowe El Classico się tworzy...😎</p><p>Po zamkniętych grupach facebookowych krążą już typy bukmachery. Statystycznie - nie wiedzieć na jakiej podstawie, faworytem jest ekipa SOMR; Zapewne Zbigniew Migda ruszył swoje niezmierzone wpływy propagandowe i notowania naszej drużyny są niskie. OK, wyjdziemy na sztuczną jako underdog, pokażemy pazur 🔱 Toronto Raptors i wynik końcowy będzie dla nas korzystny ❗ </p><p>Tygodnie przygotowań; diety, nowe buty, katorżnicze treningi.. Wiemy że było warto. Jutro będzie ogień 🔥</p><p>Zapraszamy wszystkich do kibicowania podczas meczu a szczególnie do trzymania kciuków za naszą drużynę😍</p><p>Ps TAK, to właściwe skojarzenie SuperBAX DC Comics baby😉</p>",
+        "miniInfo": {
+            "fill": "#C4E58E",
+            "imgUrl": "assets/images/news/eRobocze_sosnowiec_mecz_somr-vs-bax.png",
+            "invert": true,
+            "isExternalUrl": false,
+            "pointer": "#D81E05",
+            "title": "SOMR vs BAX",
+            "url": "bax-eRobocze-Sosnowiec-mecz-SOMR-VS-BAX"
+        }
+    },
+    {
+        "creationDate": "2019-06-05",
+        "id": "bax-eRobocze-Sosnowiec-2019-zapraszamy",
+        "title": {
+            "title": "eRobocze Sosnowiec",
+            "shortTitle": "Zapraszamy",
+            "subtitle": "Mistrzowski chwyt, Yanek - The Best Operator"
+        },
+        "imgUrl": "assets/images/news/eRobocze_Sosnowiec_2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>📣 Let's get ready to Rumble ❗❗❗ U nas w firmie najwyższy stan gotowości 😉 Co słychać ❓ Przygotowania już na finiszu ? maszyny lśnią, plan zwiedzania eRobocze już ułożony ❓ Przede wszystkim zapraszamy do odwiedzenia naszego stoiska, którego gościem specjalnym, ponownie jak na zeszłorocznych eRobocze Turek, będzie - KuraZłomowisko.pl Krzysztof Domogała, wszyscy fani Zlomowisko.pl będą mogli spotkać na żywo bohatera serii.</p><p>Z ogromną przyjemnością zapraszamy na organizowany przez nas konkurs <strong>\"Mistrzowski chwyt\" 💪</strong> na maszynie <strong>SENNEBOGEN</strong> Zachęcamy do wzięcia udziału/kibicowania podczas konkursu <strong>\"Yanek - The Best Operator\"</strong>. Sprawności tutaj będą testowane na maszynach której jesteśmy autoryzowanym dealerem - <strong>Yanmar</strong>. <i>Gdzie BAX tam impreza 🎊❗</i></p><p><strong>ZAPRASZAMY:</strong> Sosnowiec, najbliższa sobota 8 czerwca od 9:00</p>",
+        "miniInfo": {
+            "fill": "#E5D3C1",
+            "imgUrl": "assets/images/news/eRobocze_Sosnowiec_2019.png",
+            "invert": true,
+            "pointer": "#00AACC",
+            "title": "eRobocze Sosnowiec",
+            "url": "bax-eRobocze-Sosnowiec-2019-zapraszamy"
+        }
+    },
+    {
+        "creationDate": "2019-06-01",
+        "id": "bax-dzien-dziecka-2019",
+        "title": {
+            "title": "Dzień dziecka",
+            "shortTitle": "Cudownego dnia dziecka !",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/BAX_dzien_dziecka_2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>🎈Wszystkim dzieciom i \"dzieciakom\" życzymy pięknego dnia oraz spełnienia marzeń 🎁</p><p>PS BAX, zawsze dla Was, bo z niektórych pasji się nie wyrasta..😉</p>",
+        "miniInfo": {
+            "fill": "#C4D8E2",
+            "imgUrl": "assets/images/news/BAX_dzien_dziecka_2019.png",
+            "invert": true,
+            "pointer": "#FCA311",
+            "title": "Dzień dziecka",
+            "url": "bax-dzien-dziecka-2019"
+        }
+    },
+    {
+        "creationDate": "2019-05-25",
+        "id": "bax-targi-ligna-hanover-2019",
+        "title": {
+            "title": "Ligna 2019",
+            "shortTitle": "Targi branży drzewnej",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/bax-ligna-2019.png",
+        "youtubeUrl": null,
+        "youtubeEmbedUrl": null,
+        "text": "<p>Targi branży drzewnej LIGNA ! Już w najbliższy poniedziałek - 27-31 maja 2019; My tam będziemy i serdecznie ZAPRASZAMY😍 nie tylko przedsiębiorców przemysłu dzrzewnego. Szukasz rozwiązań, nowych pomysłów, inspiracji - musisz tam być 👍 Zachęcamy do przeczytania artykułu dotyczącego premiery napędu hybrydowego sennebogen 735M-E <a href=\"https://bax-maszyny.pl/news/pierwsza-maszyna-z-napdem-hybrydowym-PICK-and-CARRY\">tutaj</a></p>",
+        "miniInfo": {
+            "fill": "#93DDDB",
+            "imgUrl": "assets/images/news/bax-ligna-2019.png",
+            "invert": true,
+            "pointer": "#91A399",
+            "title": "Ligna 2019",
+            "url": "bax-targi-ligna-hanover-2019"
+        }
+    },
+    {
+        "creationDate": "2019-05-21",
+        "id": "pierwsza-maszyna-z-napdem-hybrydowym-PICK-and-CARRY",
+        "title": {
+            "title": "Pick and Carry",
+            "shortTitle": "Sennebogen 735M-E, pierwsza maszyna z napędem hybrydowym",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/sennebogen-735M-E-naped-hybrydowy.jpg",
+        "youtubeUrl": "https://youtu.be/W7BqdlwMn8Y",
+        "youtubeEmbedUrl": null,
+        "text": "<p>☝Pierwsza na świecie maszyna z napędem hybrydowym PICK & CARRY.</p><p>Na targach LIGNA w maju 2019r., w Hanowerze, firma <strong>SENNEBOGEN</strong> 📢 zaprezentuje nową wersję napędu elektryczno-hydraulicznej maszyny przeładunkowej <strong>Pick & Carry SENNEBOGEN 735M-E</strong>, który jest bardzo popularny w <i>przemyśle drzewnym</i>. Maszyny te są głównie używane w składach kłód do organizowania i sortowania oraz do zasilania instalacji tartacznych.</p><p>Jest to wspólny projekt rozwojowy <strong>Bosch Rexroth i SENNEBOGEN</strong>, długoletni partnerzy w dziedzinie technologii napędów i układów hydraulicznych. Ten nowoczesny napęd podróżny zostanie wprowadzony jako produkt rynkowy przez firmę SENNEBOGEN pod nazwą <strong><i>„Green Efficiency Drive” </i></strong>. Maszyna Pick & Carry może przełączać się w sposób ciągły między przyspieszaniem, hamowaniem i jazdą pod obciążeniem, co zapewniło możliwości poprawy wykorzystania dostępnej energii. Nowa koncepcja napędu składa się z dwóch elektrycznych silników napędowych w podwoziu, które są zasilane przez generator napędzany silnikiem wysokoprężnym.</p><p>Poza zwiększoną wydajnością i <i>niższym zużyciem paliwa o około 15%</i>, zespół projektowy zdołał także obniżyć poziom hałasu oraz dynamiczne przyspieszanie i hamowanie. W początkowych zastosowaniach <i>wydajność wzrasta do 30% 💪</i> w porównaniu z poprzednio używanym silnikiem dieslowo-hydraulicznym. Nowy model hybrydowy dalej legitymuje się bardzo dobrymi parametrami roboczymi: zasięg pracy do <strong>11,5m</strong>, udźwig maksymalny do <strong>22,5 tony</strong>, wysokość podawania do <strong>11m</strong>.</p><p>Poznaj <strong>SENNEBOGEN 735 E z Green Efficiency Drive 😊</strong> na targach <strong><i>Ligna</i></strong>, gdzie będzie oficjalna premiera pierwszego modelu z serii <strong>„7”</strong>.</p><p>Już wkrótce wszystkie nasze maszyny <strong>PICK & Carry</strong> będą wyposażone w napędy hybrydowe ponieważ dbałość o Naszą planetę 🌍 jest dla Nas równie ważna jak efektywność Naszych rozwiązań.</p><p>👉 <strong>Filip Radlak, tel ☎<a href=\"tel:+48 513 132 686\"> <i>513 132 686</i></a></strong> <em>(dealer marki <strong>Sennebogen</strong>)</em><br>👉 <strong>Mikołaj Lewkowicz, tel ☎<a href=\"tel:+48 513 132 688\"> <i>513 132 688</i></a></strong> (<em>dealer marki <strong>Sennebogen</strong>, region Śląsk)</em></p>",
+        "miniInfo": {
+            "fill": "#F4ED7C",
+            "imgUrl": "assets/images/news/sennebogen-735M-E-naped-hybrydowy.jpg",
+            "invert": true,
+            "pointer": "#5BBF21",
+            "title": "735M-E Pierwsza Hybryda",
+            "url": "pierwsza-maszyna-z-napdem-hybrydowym-PICK-and-CARRY"
+        }
+    },
+    {
+        "creationDate": "2019-05-19",
+        "id": "sparing-BAX-Murcia-2019-05-17",
+        "title": {
+            "title": "BAX vs Murcia",
+            "shortTitle": "Przed meczem eRobocze Sosnowiec 2019",
+            "subtitle": "2019-05-17, godz: 19:30"
+        },
+        "imgUrl": "assets/images/news/orlik_trening_2019_05_17_murcia.jpg",
+        "youtubeUrl": "https://youtu.be/EFl7To2uYrI",
+        "youtubeEmbedUrl": null,
+        "text": "<p>..Bo KopanieToNaszaPasja☝... ⚽ Trening nr 73, tym razem odwiedzamy zaprzyjaźnioną ekipę w Murowana Goślina Przygotowania do meczu przeciwko ekipie Stowarzyszenie Operator w toku.. Były iskry ✨😉</p>",
+        "miniInfo": {
+            "fill": "#234F33",
+            "imgUrl": "assets/images/news/orlik_trening_2019_05_17_murcia.jpg",
+            "invert": false,
+            "pointer": "#4CCED1",
+            "title": "BAX vs Murcia",
+            "url": "sparing-BAX-Murcia-2019-05-17"
+        }
+    },
+    {
+        "creationDate": "2019-05-11",
+        "id": "trening-otwarty-przed-eRobocze-Sosnowiec-2019-05-11",
+        "title": {
+            "title": "Trening otwarty",
+            "shortTitle": "Przed meczem eRobocze Sosnowiec 2019",
+            "subtitle": "2019-05-11, godz: 14:00"
+        },
+        "imgUrl": "assets/images/news/bax_trening_2019_05_11.jpg",
+        "youtubeUrl": "https://youtu.be/msYPf2kwd1E",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Przedstawiamy krótką relację z przygotowania do meczu ⚽ BAX Team vs SOMR ⚽ który odbędzie się na dzień przed erobocze.pl w Sosnowcu. Trening a następnie mały sparing odbył się w słoneczną 🌞 sobotę (11-05-2015) o godzinie 14:00. Z uśmiechami na twarzach 😉, w dobrych nastrojach pobiegaliśmy, postrzelaliśmy, naśmialiśmy się ❗❗ To było udane sobotnie popołudnie ❗❗ SOMR, Zbigniew Migda a jak Wasze przygotowania ❓ JESTEŚCIE GOTOWI ❓</p>",
+        "miniInfo": {
+            "fill": "#234F33",
+            "imgUrl": "assets/images/news/bax_trening_2019_05_11.jpg",
+            "invert": false,
+            "pointer": "#F9D616",
+            "title": "Trening otwarty",
+            "url": "trening-otwarty-przed-eRobocze-Sosnowiec-2019-05-11"
+        }
+    },
+    {
+        "creationDate": "2019-05-10",
+        "id": "sennebogen-system-modulowy",
+        "title": {
+            "title": "Modułowy system Sennebogen",
+            "shortTitle": "Konfigurator maszyn przeładunkowych",
+            "subtitle": null
+        },
+        "imgUrl": "assets/images/news/sennebogen-system-modulowy.png",
+        "youtubeUrl": "https://youtu.be/Wh6yky0shOM",
+        "youtubeEmbedUrl": null,
+        "text": "<p>Indywidualne projekty maszyn skrojone na potrzeby konkretnej charakterystyki pracy to cos co Nas napędza.😁</p><p>Dzięki temu że maszyny <strong>Sennebogen</strong> budujemy w systemie modułowym w prosty sposób możemy skonfigurować urządzenie które sprawdzi się w każdym środowisku pracy.</p><p>Kilka kroków wystarczy aby maszyna <strong>Sennebogen</strong> sprostała najbardziej nietypowym wymaganiom:☝</p><ol><li>Na początku wybieramy spośród kilkudziesięciu standardowych modeli maszyn w przedziale wagowym od <strong>17-420</strong> ton.💪</li><li>Każdy model ma możliwość pracy z silnikiem diesel lub elektrycznym, który może generować do 70% niższe koszty w stosunku do napędu diesel.</li><li>Możemy wybierać spośród kilku rodzajów podwozia: kołowe, gąsienicowe, szynowe, bramowe, stacjonarne, suwnicowe, każde z nich może być dodatkowo wyposażone w <strong>pylon</strong> o wysokości od <strong>1-6m</strong>.</li><li>Komfort, efektywność i przede wszystkim bezpieczeństwo pracy operatora to coś co mocno cechuje Nasze konstrukcje i dlatego proponujemy kabiny operatorskie typu MAXCAB podnoszone hydraulicznie na kilka metrów w górę, <strong>MAXCAB</strong> przemysłowe podnoszone hydraulicznie do góry i do przodu od <strong>1,5-9m</strong>👀 oraz <strong>MASTERCAB</strong> największe dwumiejscowe z przeszkloną podłogą.</li><li>Aby sprostać wszystkim wymaganiom rynkowym możemy zaproponować zasięg pracy Naszych maszyn <strong>do 42m.</strong> W każdym jednym modelu mamy do dyspozycji kilka długości ramion roboczych.</li><li>Wszystkie Nasze urządzenia możemy wzbogacić opcjonalnymi pakietami: podnoszącymi bezpieczeństwo, komfort, dostosowującymi urządzenie do skrajnych warunków pogodowych: zima/lato, serwisowymi, lub gwarancyjnymi.</li><li>Żaden typ dostępnych na rynku materiałów do przeładunku nie jest Nam straszny ponieważ mamy przygotowany obszerny wachlarz osprzętów roboczych: <i>chwytaki: sortujące, łupinowe, wielopalczaste, dwu-klamrowe,  młoty, wiertnice, generatory prądotwórcze, płyty magnetyczne, haki, żurawie</i> i wiele innych.</li><li><strong>GREEN LINE</strong> 🌳 to linia maszyn z której jesteśmy dumni ponieważ kolor <strong>zielony</strong> to znak, że oprócz <u>efektywności, niezawodności i bezpieczeństwa</u> Naszych konstrukcji zależy nam również na ekologii i dbaniu o Naszą planetę ale na <strong>specjalne zamówienie</strong> przygotowujemy maszyny we wszystkich dostępnych kolorach.</li></ol><br><p>Wysokość kabiny, typ silnika lub pylon: wybór należy do Ciebie! Nasza <strong>modułowa konstrukcja</strong> maszyny oferuje ponad <strong>16 000</strong> unikalnych możliwości. Idealny dla każdego, kto szuka specjalnego rozwiązania. Dla nas nie ma rzeczy nie możliwych.</p><br><p>Skontaktuj się z nami: </p><p>👉 <strong>Filip Radlak, tel ☎<a href=\"tel:+48 513 132 686\"> <i>513 132 686</i></a></strong> <em>(dealer marki <strong>Sennebogen</strong>)</em><br>👉 <strong>Mikołaj Lewkowicz, tel ☎<a href=\"tel:+48 513 132 688\"> <i>513 132 688</i></a></strong> (<em>dealer marki <strong>Sennebogen</strong>, region Śląsk)</em></p>",
+        "miniInfo": {
+            "fill": "#aadd6d",
+            "imgUrl": "assets/images/news/sennebogen-system-modulowy.png",
+            "invert": false,
+            "pointer": "#5bbf21",
+            "title": "Modułowy Sennebogen",
+            "url": "sennebogen-system-modulowy"
+        }
+    },
+    {
         "creationDate": "2019-04-30",
         "id": "majowka-2019",
         "title": {
@@ -7,13 +792,13 @@
             "shortTitle": "BAX doradza",
             "subtitle": "Jak spakować koszyk piknikowy"
         },
-        "imgUrl": "./assets/images/news/bax_majowka_2019.png",
+        "imgUrl": "assets/images/news/bax_majowka_2019.png",
         "youtubeUrl": "https://youtu.be/EIzn0zGfFLs",
         "youtubeEmbedUrl": null,
         "text": "<p>BAX nie tylko doskonale 🦉doradza w wyborze maszyn marek SENNEBOGEN Maschinenfabrik GmbH czy Yanmar Global ale także podpowiada ☝ jak perfekcyjnie spakować 🧺 koszyk piknikowy 🤣</p><p>Informujemy, że w dniu <strong>02-05-2019</strong> nie pracujemy..</p><p>Wypoczęci, uśmiechnięci wracamy do pracy 06-05-2019</p>",
         "miniInfo": {
             "fill": "#DDDBD1",
-            "imgUrl": "./assets/images/news/bax_majowka_2019.png",
+            "imgUrl": "assets/images/news/bax_majowka_2019.png",
             "invert": true,
             "pointer": "#FC7F3F",
             "title": "Majówka 2019",
@@ -24,17 +809,17 @@
         "creationDate": "2019-04-19",
         "id": "wielkanoc-2019",
         "title": {
-            "title": "Wesołych Świąt",
-            "shortTitle": "Wielkanoc 2019",
+            "title": "Wesołych Świąt Wielkiej Nocy 2019",
+            "shortTitle": null,
             "subtitle": null
         },
-        "imgUrl": "./assets/images/news/bax_wielkanoc_2019.png",
+        "imgUrl": "assets/images/news/bax_wielkanoc_2019.png",
         "youtubeUrl": null,
         "youtubeEmbedUrl": null,
         "text": null,
         "miniInfo": {
             "fill": "#006854",
-            "imgUrl": "./assets/images/news/bax_wielkanoc_2019.png",
+            "imgUrl": "assets/images/news/bax_wielkanoc_2019.png",
             "invert": true,
             "pointer": "#eaed35",
             "title": "Wesołych Świąt",
@@ -49,13 +834,13 @@
             "shortTitle": "Job offer",
             "subtitle": null
         },
-        "imgUrl": "./assets/images/news/bax_job_offer_robota_na_slasku_mechanik_resize.png",
+        "imgUrl": "assets/images/news/bax_job_offer_robota_na_slasku_mechanik_resize.png",
         "youtubeUrl": "https://youtu.be/TMb3H6svbeQ",
         "youtubeEmbedUrl": null,
         "text": "<p>📢 UWAGA 🔔 💵Jest robota na Śląsku 💲, poszukujemy mechaników, elektromechaników - praca w terenie 🚚. Dołącz do naszej ekipy i 😃 <strong>polub swoją pracę 👌</strong>‼</p><p>Oczekujemy ZAANGAŻOWANIA, prawa jazdy kategorii \"B\", wykształcenia mechanicznego. (kolejność nieprzypadkowa) <br>Doświadczenie zdobędziesz z nami ‼</p><p><strong>Zainteresowany ❓</strong> Skontaktuj się z szefem naszego serwisu @robert tataruk <br> tel ☎<a href=\"tel:+48 513 078 884\"> <i>513 078 884</i></a> lub aplikuj <br>📭 email: <a href=\"mailto:serwis@bax-maszyny.pl\">serwis@bax-maszyny.pl</a><br>Udostępnij, przekaż znajomemu..</p>",
         "miniInfo": {
             "fill": "#9663c4",
-            "imgUrl": "./assets/images/news/bax_job_offer_robota_na_slasku_mechanik_resize.png",
+            "imgUrl": "assets/images/news/bax_job_offer_robota_na_slasku_mechanik_resize.png",
             "pointer": "#51b5e0",
             "title": "Robota na Śląsku",
             "url": "job-offer-robota-na-slasku-mechanik"
@@ -69,13 +854,13 @@
             "shortTitle": "KopanieToNaszaPasja",
             "subtitle": "przekazanie"
         },
-        "imgUrl": "./assets/images/news/kopanieToNaszaPasja_jar-bud_sv18_digga_PDD-4_resize.png",
+        "imgUrl": "assets/images/news/kopanieToNaszaPasja_jar-bud_sv18_digga_PDD-4_resize.png",
         "youtubeUrl": "https://youtu.be/xgsfpCqPA4g",
         "youtubeEmbedUrl": null,
         "text": "<p>😁 Yanmar SV18 + wiertnica DIGGA PDD-4</p><p>☝ Przekazujemy sprzęt do Centrum Ogrodzeń \"JAR-BUD\" Jarosław Borkowski </p><p>👀 Zobacz jak sprawdza się sugerowane przez nas rozwiązanie w wyjątkowo trudnych warunkach... [glina, beton, żwir..] </p><p>Potrzebujesz pomocy w wyborze maszyny i osprzętu ? Skontaktuj się z nami: </p><br>👉 <strong>Krzysztof Grodzki, tel ☎<a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong> <em>(brand manager)</em> <br>👉 <strong>Piotr Minczykowski, tel ☎<a href=\"tel:+48 501 262 313\"> <i>501 262 313</i></a></strong> <em>(doradca techniczny)<em><br>👏 Dostawca wiertnic: Serafin-maszyny, - Krzysztof Otto<br>👏 Transport: <strong>Pomoc drogowa Poznań PHU Fast-Trans, tel ☎<a href=\"tel:+48 600 960 987\"> <i>600 960 987</i></a></strong> </p>",
         "miniInfo": {
             "fill": "#e8ed60",
-            "imgUrl": "./assets/images/news/kopanieToNaszaPasja_jar-bud_sv18_digga_PDD-4_resize.png",
+            "imgUrl": "assets/images/news/kopanieToNaszaPasja_jar-bud_sv18_digga_PDD-4_resize.png",
             "pointer": "#d81e05",
             "title": "Jar-bud, Digga PDD-4",
             "url": "kopanieToNaszaPasja-przekazanie-centrum-ogrodzen-jar-bud-wiertnica-digga-pdd-4"
@@ -89,13 +874,13 @@
             "shortTitle": "Fotorelacja",
             "subtitle": null
         },
-        "imgUrl": "./assets/images/news/bax-Bauma-2019-04-09_24_erich_sennebogen.jpg",
+        "imgUrl": "assets/images/news/bax-Bauma-2019-04-09_24_erich_sennebogen.jpg",
         "youtubeUrl": null,
         "youtubeEmbedUrl": "https://www.youtube.com/embed/kxyBC86G0sk",
         "text": "<p>bauma SENNEBOGEN Maschinenfabrik GmbH oficjalnie zakończona !😢 Mnóstwo pozytywnych emocji, nowych kontaktów, technologicznych nowości. Tradycyjne pożegnanie \"na klaksonie\" 📢💖🥇. Już tęsknimy i nie możemy się doczekać kolejnej imprezy ! Do zobaczenia i dziękujemy ‼</p>",
         "miniInfo": {
             "fill": "#aadd6d",
-            "imgUrl": "./assets/images/news/bax-Bauma-2019-04-09_24_erich_sennebogen.jpg",
+            "imgUrl": "assets/images/news/bax-Bauma-2019-04-09_24_erich_sennebogen.jpg",
             "pointer": "#5bbf21",
             "title": "bauma 2019",
             "url": "bax-bauma-2019"
@@ -109,13 +894,13 @@
             "shortTitle": "Weryfikacja w terenie",
             "subtitle": "WY-KOP Krzysztof Konieczny"
         },
-        "imgUrl": "./assets/images/news/kopanieToNaszaPasja_Weryfikacja_WY-KOP.jpg",
+        "imgUrl": "assets/images/news/kopanieToNaszaPasja_Weryfikacja_WY-KOP.jpg",
         "youtubeUrl": "https://youtu.be/kxyBC86G0sk",
         "youtubeEmbedUrl": "https://www.youtube.com/embed/kxyBC86G0sk",
         "text": "<p>Naszym pierszym gościem jest <strong>Krzysztof Konieczny</strong>, osoba której w branży nie trzeba przedstawiać, sprawdźcie jakimi informacjami się z nami podzielił, poznajcie jego opinie bazującą na ogromnym doświadczeniu, przekonajcie się czy warto kupić <strong>Yanmar Global.</strong></p> <p>Chcesz żebyśmy i Ciebie odwiedzili ??? Skontaktuj się z naszym dealerem <strong>Krzysztof Grodzki</strong> Sprawdźmy się w terenie ! Zapraszamy do polubienia i UDOSTĘPNIENIA tego filmu ! Czekamy na Wasze pytania, dotyczące maszyny jak i warunków jej zakupu.. Jesteśmy do Waszej dyspozycji !</p>",
         "miniInfo": {
             "fill": "#f2bad8",
-            "imgUrl": "./assets/images/news/kopanieToNaszaPasja_Weryfikacja_WY-KOP.jpg",
+            "imgUrl": "assets/images/news/kopanieToNaszaPasja_Weryfikacja_WY-KOP.jpg",
             "pointer": "#FFC61E",
             "title": "Weryfikacja w terenie",
             "url": "kopanie-to-nasza-pasja-weryfikacja-WY_KOP"
@@ -129,13 +914,13 @@
             "shortTitle": "eRobocze SHOW Turek",
             "subtitle": "podsumowanie"
         },
-        "imgUrl": "./assets/images/news/eRobocze-show-turek-2018.png",
+        "imgUrl": "assets/images/news/eRobocze-show-turek-2018.png",
         "youtubeUrl": "https://youtu.be/IJHUXefLflQ",
         "youtubeEmbedUrl": "https://www.youtube.com/embed/mb7eg8vTyt4",
         "text": "<p>Fantastyczna impreza, rewelacyjna pogoda, mnóstwo zainteresowanych, niezliczona ilość wymienionych cennych, fachowych opinii. Serdecznie, miło, piknikowo ! </p> <p>Firma BAX jest dealerem marek Yanmar Global oraz <strong>SENNEBOGEN Maschinenfabrik GmbH.</strong> Na eRobocze była też współorganizatorem jak i fundatorem głównej nagrody w konkursie BAX Sennebogen - Mistrzowski chwyt; Jeszcze raz serdecznie gratulujemy zwycięzcy p. <strong>Paweł Lipiński</strong> który z czasem 1:38min ułożył konkursowe zadanie; Na wyróżnienie zasługują również Mariusz Andrzejczak oraz Krzysztof Konieczny którzy w naszym konkursie zajęli kolejno drugie i trzecie miejsce. Jesteśmy przekonani że Operatorzy którzy w tak krótkim czasie poradzili sobie z tak wymagającym zadaniem, dają radę w każdych warunkach, na każdym modelu maszyny. Panowie, czapy z głów.</p> <p>Gościnnie przy naszym stoisku gościł <strong><em>\"Kura\"</em> Krzysztof Domogała</strong>, rozpoznawany jako bohater serii Złomowisko PL w firmie Olmet. Inspiruje nas ZŁOM; wyjątkowo barwna, dusza towarzystwa. Było nam niezmiernie miło Ciebie spotkać !</p> <p> Organizatorom, w szczególności <strong>Zbigniew Migda</strong> po raz kolejny należy się wielkie uznanie. Każda kolejna edycja jest coraz ciekawsza, skupiająca zainteresowanie coraz większej ilości osób. </p> <p>Jedno jest pewne: piszemy się na kolejną edycję, a Ty ?</p><p>Krótka relacja z naszej perspektywy. Byliście, widzieliście, zostawcie swój komentarz !</p>",
         "miniInfo": {
             "fill": "#7c6d63",
-            "imgUrl": "./assets/images/news/eRobocze-show-turek-2018.png",
+            "imgUrl": "assets/images/news/eRobocze-show-turek-2018.png",
             "pointer": "#CC0256",
             "title": "e-Robocze SHOW",
             "url": "eRobocze-show-turek-2018"
@@ -144,18 +929,18 @@
     {
         "creationDate": "2018-11-09",
         "id": "finansowanie-fabryczne-2018",
-        "imgUrl": "./assets/images/news/finansowanie-fabryczne-2018.png",
+        "imgUrl": "assets/images/news/finansowanie-fabryczne-2018.png",
         "text": "<p>Z kim by nie rozmawiać, główne kryterium przy zakupie maszyny stanowi: nieustannie potrzebna - KASA… Rynek stał się coraz bardziej wymagający. Z roku na rok rozciągane do granic możliwości, często graniczące z cudem, normy wydajności stawiają operatora/właściciela firmy pod ścianą: \" być albo nie być\".. Gonitwa przed terminem w parze ze złośliwością rzeczy martwych staje się powodem do frustracji. A może tak inaczej ? </p> <p> Bezspornym liderem jakości jest marka Yanmar. Jej modele charakteryzują się wysoką wydajnością i niezawodnością. Sloganowo ? Takie są fakty. Testy szybkości pokazują 10-40% (w zależności od specyfiki pracy) przewagę nad konkurencją. To oznacza że w tym samym czasie zrobią więcej albo inaczej, tą samą pracę wykonają szybciej. Jak to się ma do <em> \"..Yanmary są drogie \" ? </em> Odpowiedź jest prosta – jakość musi mieć swoją cenę. Myśląc w perspektywie przynajmniej 4-5 lat wybór tej marki jest gwarancją sukcesu; Na rynku wtórnym sprzęt ten traci na wartości stosunkowo najmniej spośród konkurencji więc można zrobić robotę – szybciej i jeszcze dobrze sprzedać maszynę. </p> <p> Prestiż Yanmar może być w zasięgu Twojego portfela ! Dzięki programowi Yanmar Finance PNB Paribas \" Finansowanie fabryczne \" upragniona koparka/ładowarka Yanmar może już zacząć dla Ciebie pracować po wpłacie 25% jej wartości, jednorazowej opłacie 500 PLN tytułem kosztów manipulacyjnych oraz pozytywnej weryfikacji bankowej która najczęściej jest tylko formalnością. </p><p>To wyjątkowa okazja dla tych którzy planują zakup sprzętu. Masz kilkadziesiąt tysięcy i perspektywę pracy ? Nie kupuj używanego sprzętu ! Rozważasz zakup \" za gotówkę \" ? Może nie warto inwestować całej kwoty. Jedną z dróg do sukcesu jest zrównoważony rozwój, być może dzięki temu programowi warto skalkulować zakup jeszcze jednej maszyny ? Procedura jest wyjątkowo prosta a warunki finansowe wyjątkowo korzystne. Z doświadczenia wiemy że maszyna może zostać wydana nawet w ten sam dzień ! Standardowe dokumenty wymagane przy umowach kredytowych/leasingowych typu PIT, rejestr z KPiR i najpóźniej do 2 dni roboczych jest decyzja. Pozostała część kosztów podzielona jest na 36 rat by ostatecznie wykupić maszynę za 1% jej wartości. <strong>Uwaga raty NIE SĄ OPROCENTOWANE !!!</strong></p><p> My, firma <strong>BAX</strong> jako dobrze rozpoznawalna marka na rynku dealerskim oferujemy NAJWYŻSZEJ klasy konsultacje przy wyborze sprzętu jak i osprzętu. Naszą domeną potwierdzaną przez klientów jest obsługa serwisowa. Doskonale zdajemy sobie sprawę że maszyna musi pracować, musi zarabiać i tym samym utrzymujemy najwyższe standardy obsługi zarówno gwarancyjnej jak i pogwarancyjnej. </p> <p> Aktualnie program ten jest przewidziany do końca tego roku; Nie czekaj z decyzją, szczegółowe informacje dotyczące parametrów technicznych jak i finansowych – skontaktuj się z naszym brand managerem <strong>Krzysztof Grodzki <a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a> lub stacjonarnie: <a href=\"tel:+48 61 828 33 66\"> <i>+48 61 828 33 66</i></a>)</strong> </p> <p> W ofercie posiadamy więcej modeli jednak szczególnie zachęcamy do zakupu modeli widocznych na materiale promocyjnym. Dostępne są od ręki! </p> <p> Najlepszy czas na nowego <strong>Yanmara</strong>, czekamy na Twój kontakt ! </p>",
         "title": {
-            "shortTitle": "Finansowanie fabryczne",
-            "title": "Finansowanie fabryczne",
+            "shortTitle": "minikoparki, wozidła, koparki kołowe",
+            "title": "Finansowanie fabryczne 0%",
             "subtitle": "Yanmar 2018"
         },
         "youtubeUrl": "https://youtu.be/_7vPeRw0jqA",
         "youtubeEmbedUrl": "https://www.youtube.com/embed/_7vPeRw0jqA",
         "miniInfo": {
             "fill": "#2b1166",
-            "imgUrl": "./assets/images/news/finansowanie-fabryczne-2018.png",
+            "imgUrl": "assets/images/news/finansowanie-fabryczne-2018.png",
             "pointer": "#00B2AA",
             "title": "Finansowanie Fabryczne",
             "url": "finansowanie-fabryczne-2018",
@@ -165,17 +950,17 @@
     {
         "creationDate": "2018-12-31",
         "id": "szukamy-znakow-na-niebie-sylwester-2018",
-        "imgUrl": "./assets/images/news/szukamy-znakow-na-niebie-sylwester-2018.png",
+        "imgUrl": "assets/images/news/szukamy-znakow-na-niebie-sylwester-2018.png",
         "miniInfo": {
             "fill": "#3a75c4",
-            "imgUrl": "./assets/images/news/szukamy-znakow-na-niebie-sylwester-2018.png",
+            "imgUrl": "assets/images/news/szukamy-znakow-na-niebie-sylwester-2018.png",
             "pointer": "#0072C6",
             "title": "szukamy znaków na niebie",
             "url": "szukamy-znakow-na-niebie-sylwester-2018"
         },
         "text": "<p><strong>UWAGA !!! </strong>Szukamy znaków na niebie ‼ W sylwestrową noc 🎆, punktualnie o północy, nad zachodnią częścią Polski mogą i jesteśmy przekonani że się pojawią TE znaki ‼‼‼ Daj znać jeśli je zobaczysz 🤙</p><p> //jeśli nie, to najwyraźniej - należy 🍾🍷🍹..wzmóc poszukiwania !</p><h1>Happy New Year 2019</h1>",
         "title": {
-            "shortTitle": "Happy New Year 2019",
+            "shortTitle": "Życzenia świateczne i noworoczne",
             "title": "Happy New Year 2019",
             "subtitle": null
         },
@@ -185,16 +970,16 @@
     {
         "creationDate": "2018-12-21",
         "id": "duzo-zdrowia-i-milosci-gwiazdka-2018",
-        "imgUrl": "./assets/images/news/duzo-zdrowia-i-milosci-gwiazdka-2018.png",
+        "imgUrl": "assets/images/news/duzo-zdrowia-i-milosci-gwiazdka-2018.png",
         "miniInfo": {
             "fill": "#ce1126",
-            "imgUrl": "./assets/images/news/duzo-zdrowia-i-milosci-gwiazdka-2018.png",
+            "imgUrl": "assets/images/news/duzo-zdrowia-i-milosci-gwiazdka-2018.png",
             "pointer": "#215B33",
             "title": "Gwiazdka 2018",
             "url": "duzo-zdrowia-i-milosci-gwiazdka-2018"
         },
         "title": {
-            "shortTitle": "dużo zdrowia i miłości",
+            "shortTitle": "Życenia dla klientów, partnerów, współpracowników",
             "title": "Dużo zdrowia i miłości",
             "subtitle": "Gwiazdka 2018"
         },
@@ -205,16 +990,16 @@
     {
         "creationDate": "2018-12-08",
         "id": "wymiatamy-magazyn-czesci-case-2018",
-        "imgUrl": "./assets/images/news/wymiatamy_magazyn_czesci_CASE_small.png",
+        "imgUrl": "assets/images/news/wymiatamy_magazyn_czesci_CASE_small.png",
         "miniInfo": {
             "fill": "#fcbf49",
-            "imgUrl": "./assets/images/news/wymiatamy_magazyn_czesci_CASE_small.png",
+            "imgUrl": "assets/images/news/wymiatamy_magazyn_czesci_CASE_small.png",
             "pointer": "#2D338E",
-            "title": "Wymiatamy magazyn części",
+            "title": "Wymiatamy magazyn części CASE",
             "url": "wymiatamy-magazyn-czesci-case-2018"
         },
         "title": {
-            "shortTitle": "wymiatamy magazyn części CASE",
+            "shortTitle": "wyprzedaż, extra",
             "title": "wymiatamy magazyn części CASE"
         },
         "text": "<p>WYMIATAMY magazyn z części CASE ‼ Oferta ważna do wyczerpania zapasów. ☎ Zadzwoń ☎ przekonaj się że tak korzystnych cen nie znajdziesz NIGDZIE ‼</p> <p><strong>UWAGA ‼ EXTRA RABAT +5% ‼</strong> dla każdej osoby która zadzwoni na bezpośredni numer naszego handlowca tel. <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a> i powie: <em>\"Majami, daj mi upust !\"</em></p>"
@@ -222,17 +1007,17 @@
     {
         "creationDate": "2018-11-22",
         "id": "black-friday-2018",
-        "imgUrl": "./assets/images/news/black-friday-2018.png",
+        "imgUrl": "assets/images/news/black-friday-2018.png",
         "miniInfo": {
             "fill": "#7c6d63",
-            "imgUrl": "./assets/images/news/black-friday-2018.png",
+            "imgUrl": "assets/images/news/black-friday-2018.png",
             "pointer": "#CC0256",
             "title": "Black friday",
             "url": "black-friday-2018"
         },
         "text": "<p>📣<strong>BLACK FRIDAY w BAX</strong> 👍 💲Promocja💲 WSZYSTKIE CZĘŚCI TANIEJ O 15%, TYLKO JUTRO ‼ (23-11-2018), Zadzwoń: dział części: <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a> 👊</p>",
         "title": {
-            "shortTitle": "Black Friday",
+            "shortTitle": "Części do maszyn taniej o 15%",
             "title": "Black Friday",
             "subtitle": "2018"
         }
@@ -240,17 +1025,17 @@
     {
         "creationDate": "2018-10-26",
         "id": "pol-eco-system-2018",
-        "imgUrl": "./assets/images/news/pol-eco-system_2018.png",
+        "imgUrl": "assets/images/news/pol-eco-system_2018.png",
         "miniInfo": {
             "fill": "#339e35",
-            "imgUrl": "./assets/images/news/pol-eco-system_2018.png",
+            "imgUrl": "assets/images/news/pol-eco-system_2018.png",
             "pointer": "#5BBF21",
             "title": "POl-ECO System",
             "url": "pol-eco-system-2018"
         },
         "text": "<p>Na poznańskich targach <strong>POL-ECO SYSTEM</strong> od lat mamy zarezerwowane miejsce więc Międzynarodowe Targi Ochrony Środowiska bez BAX to jak tort bez wiśienki. Byliśmy, widzieliśmy, zdobyliśmy ! Tradycja tych targów sięga już \"niepamiętnych\" lat, była to <em>30 - jubileuszowa</em> impreza i jak na jubileusz przystało - było na bogato ! Hektary pawilonów, setki (tysiące ?) wystawców, miliony włożone w przygotowania. Prestiż na każdym kroku ! Przez trzy dni, niezliczona ilość zwiedzających mogła z nami porozmawiać, uzyskać najnowsze informacje dotyczące wykorzystania <strong>@SENNEBOGEN Maschinenfabrik GmbH</strong> w branży recyklingowej. Z sukcesem przedstawialiśmy przygniatające argumenty dominacji zielonej marki nad konkurencją i tym samym nas, firmę BAX jako własciwego partnera przy zakupie maszyn. Serdecznie dziękujemy wszystkim odwiedzającym nasze stoisko a dla tych którzy nie mieli możliwości osobiście nas spotkać, przypominamy że jesteśmy do Waszej dyspozycji ! Zachęcamy do kontaktu za pośrednictwem social media jak i bezpośrednio w siedzibie naszej firmy.</p>",
         "title": {
-            "shortTitle": "Pol-Eco System",
+            "shortTitle": "Relacja z Poznańskich targów",
             "title": "Pol-Eco System 2018"
         },
         "youtubeUrl": "https://youtu.be/fHRasVqxB_E",
@@ -259,17 +1044,17 @@
     {
         "creationDate": "2018-09-22",
         "id": "75-rajd-polski",
-        "imgUrl": "./assets/images/news/75-rajd-polski.jpg",
+        "imgUrl": "assets/images/news/75-rajd-polski.jpg",
         "miniInfo": {
             "fill": "#2d338e",
-            "imgUrl": "./assets/images/news/75-rajd-polski.jpg",
+            "imgUrl": "assets/images/news/75-rajd-polski.jpg",
             "pointer": "#FCD116",
             "title": "75 Rajd Polski",
             "url": "75-rajd-polski"
         },
         "text": null,
         "title": {
-            "shortTitle": "75 Rajd Polski",
+            "shortTitle": "Bezpośrednia relacja z rajdu.",
             "title": "75 Rajd Polski",
             "subtitle": "Wspieramy ekipę Pieniążek Team"
         },
@@ -279,17 +1064,17 @@
     {
         "creationDate": "2018-09-16",
         "id": "mecz-bax-yanmar-team-2018",
-        "imgUrl": "./assets/images/news/mecz-bax-yanmar-team-2018.png",
+        "imgUrl": "assets/images/news/mecz-bax-yanmar-team-2018.png",
         "miniInfo": {
             "fill": "#009e49",
             "pointer": "#96938E",
             "title": "Mecz BAX - Yanmar Team",
             "url": "mecz-bax-yanmar-team-2018",
-            "imgUrl": "./assets/images/news/mecz-bax-yanmar-team-2018.png"
+            "imgUrl": "assets/images/news/mecz-bax-yanmar-team-2018.png"
         },
         "text": "<p>Serdecznie zapraszamy do kibicowania podczas meczu ekipy BAX vs \"Szczęśliwi posiadacze maszyn Yanmar - Yanmar Team\".</p><p>O godzinie 15: 15 planujemy rozegrać mecz (P)piłkarski przez duże P, na następujących zasadach: <ul> <li>czas gry: 2x30 min,</li><li>Ilość zawodników: 5 + bramkarz,</li><li>dowolna ilość zawodników rezerwowych,</li><li>dowolna ilość zmian,</li></ul><p>Po tej, pełnej zaangażowania i przepięknych bramek, jak sądzimy, rozgrywce zapraszamy jej uczestników oraz zaproszonych gości na piknik połączony z wymianą opinii na temat zakupionych maszyn i nie tylko...</p><p>Wszelkie osoby zainteresowane wzięciem udziału w meczu, prosimy o kontakt z: <br> <strong>Krzysztof Grodzki, tel <a href=\"tel:+48 506 000 100\"> <i>506 000 100</i></a></strong></p>",
         "title": {
-            "shortTitle": "mecz piłki nożnej",
+            "shortTitle": "Mecz piłkarski, klienci yanmar vs pracownicy BAX",
             "title": "BAX - Yanmar Team"
         },
         "youtubeUrl": "https://youtu.be/aNaBJaW4ZQg",
@@ -298,17 +1083,17 @@
     {
         "creationDate": "2019-01-29",
         "id": "yanmar-four-seasons-promotion-2019-02",
-        "imgUrl": "./assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_02.png",
+        "imgUrl": "assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_02.png",
         "miniInfo": {
             "fill": "#e87511",
-            "imgUrl": "./assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_02_small.png",
+            "imgUrl": "assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_02_small.png",
             "pointer": "#568e14",
             "title": "Luty - Gąsienice -20%",
             "url": "yanmar-four-seasons-promotion-2019-02"
         },
         "text": "<p>LUTY miesiącem (nie)OBOWIĄZKOWEJ zmiany gąsienic‼ </p> <p><strong>Skorzystaj‼ </strong> Yanmar Global Four Seasons Promotion <strong>-20 %‼</strong></p><p> 🛍 <i>Kup swej \"Gąsce\" nowe butki...,</i>😃 </p> <p><i>..idzie luty, czas na nowe buty..... </i>‼</p><p>Dział części: <strong>Krzysztof Bereźnicki</strong> aka \"Majami\" <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a></p>",
         "title": {
-            "shortTitle": null,
+            "shortTitle": "Promocja na oryginalne gąsienice yanmar",
             "subtitle": "Luty - Gąsienice -20%",
             "subtitle2": "Yanmar Four Seasons Promotion",
             "title": "Luty - Gąsienice -20%"
@@ -317,10 +1102,10 @@
     {
         "creationDate": "2019-02-14",
         "id": "walentynki_2019",
-        "imgUrl": "./assets/images/news/bax_walentynki_2019.png",
+        "imgUrl": "assets/images/news/bax_walentynki_2019.png",
         "miniInfo": {
             "fill": "#C6AADB",
-            "imgUrl": "./assets/images/news/bax_walentynki_2019.png",
+            "imgUrl": "assets/images/news/bax_walentynki_2019.png",
             "invert": true,
             "pointer": "#D36BC6",
             "title": "Walentynki 2019",
@@ -337,17 +1122,17 @@
     {
         "creationDate": "2019-02-22",
         "id": "bax-dlaczego-yanmar",
-        "imgUrl": "./assets/images/news/bax-dlaczego_yanmar05x.png",
+        "imgUrl": "assets/images/news/bax-dlaczego_yanmar05x.png",
         "miniInfo": {
             "fill": "#2B2147",
-            "imgUrl": "./assets/images/news/bax-dlaczego_yanmar05x.png",
+            "imgUrl": "assets/images/news/bax-dlaczego_yanmar05x.png",
             "pointer": "#82C6E2",
             "title": "BAX, dlaczego Yanmar ?",
             "url": "bax-dlaczego-yanmar"
         },
         "text": "<p>Krzysztof Grodzki, brand manager w firmie BAX uzasadnia wybór marki Yanmar Global</p>",
         "title": {
-            "shortTitle": null,
+            "shortTitle": "Dobry wybór to marka Yanmar",
             "subtitle": null,
             "subtitle2": null,
             "title": "BAX, dlaczego Yanmar ?"
@@ -357,17 +1142,17 @@
     {
         "creationDate": "2019-03-07",
         "id": "yanmarFourSeasonsPromotion-2019-03-Filtry",
-        "imgUrl": "./assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_03.png",
+        "imgUrl": "assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_03.png",
         "miniInfo": {
             "fill": "#e87511",
-            "imgUrl": "./assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_03.png",
+            "imgUrl": "assets/images/news/BAX_Yanmar_Four_Seasons_Promotion_2019_03.png",
             "pointer": "#568e14",
             "title": "marzec - Filtry -20%",
             "url": "yanmarFourSeasonsPromotion-2019-03-Filtry"
         },
         "text": "<p>😍 Nowa - WIOSENNA Yanmar Global FourSeasonsPromotion 👉 <strong>FILTRY -20%</strong>👀 CO ⁉ Wymieniasz olej silnikowy ? ..olej hydrauliczny ? SKORZYSTAJ ‼ Marzec miesiącem upustów na oryginalne FILTRY Yanmar. Zadzwoń i ubij 🤜 deala z Majami (Krzysztof Bereźnicki) ☎  <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a>. Uwaga w ofercie mamy więcej perełek cenowych, sprawdź nas ☎ </p>",
         "title": {
-            "shortTitle": null,
+            "shortTitle": "Promocja na oryginalne filtry yanmar",
             "subtitle": null,
             "subtitle2": "Yanmar Four Seasons Promotion",
             "title": "Marzec - Filtry -20%"
@@ -377,10 +1162,10 @@
     {
         "creationDate": "2019-03-08",
         "id": "dzienKobiet2019",
-        "imgUrl": "./assets/images/news/bax_dzien_kobiet_2019.png",
+        "imgUrl": "assets/images/news/bax_dzien_kobiet_2019.png",
         "miniInfo": {
             "fill": "#FAD5E1",
-            "imgUrl": "./assets/images/news/bax_dzien_kobiet_2019.png",
+            "imgUrl": "assets/images/news/bax_dzien_kobiet_2019.png",
             "invert": true,
             "pointer": "#EF5B84",
             "title": "Dzień kobiet",
@@ -398,23 +1183,21 @@
     {
         "creationDate": "2019-03-15",
         "id": "piatkaMajami_2019_03_18",
-        "imgUrl": "./assets/images/news/bax_piatka_majami_2019-03-18_20-mini.png",
+        "imgUrl": "assets/images/news/bax_piatka_majami_2019-03-18_20-mini.png",
         "miniInfo": {
             "fill": "#995905",
-            "imgUrl": "./assets/images/news/bax_piatka_majami_2019-03-18_20-mini.png",
+            "imgUrl": "assets/images/news/bax_piatka_majami_2019-03-18_20-mini.png",
             "pointer": "#fc7f3f",
             "title": "Piątka Majami",
             "url": "piatkaMajami_2019_03_18"
         },
         "text": "<h2>\"Piątka Majami\" 💪 </h2><p>BAX, przedstawia promocje na części - 5 produktów w <strong>hiper cenach 👏</strong></p><p>Majami (Krzysztof Bereźnicki) ☎  <a href=\"tel:+48 508 368 258\"> <i>508 368 258</i></a> w firmie BAX odpowiedzialny jest za sprzedaż części takich marek jak Sennebogen, Yanmar, Merlo, Case. Przygotował promocje cenowe na następujące produkty:<ul style=\"list-style: none\"><li>💥 filtr paliwa Sennebogen (84776) 182,60 - 20% - po rabacie: <strong>146,08</strong>  PLN</li>💥 filtr oleju silnikowego Sennebogen (80543) - 68,20 - 20% - po rabacie: <strong>54,56</strong>  PLN<li>💥 wkład filtra oleju hydraulicznego Merlo (26253) - 134 - 10% - po rabacie: <strong>120,60</strong> PLN</li><li>💥 zestaw uszczelnień Case 256629A1) - 1163,40 - 50% - po rabacie: <strong>581,70</strong> PLN</li>      <li>💥 silnik wycieraczki Case - 1703,1 - 50% - po rabacie: <strong>851,55</strong> PLN</li></ul>Promocja obowiązuje 🏃‍♂🏃‍♀ od 2019-03-18 do 2019-03-20 🏃‍♂🏃‍♀ lub do wyczerpania zapasów Prezentowane ceny są cenami netto, uwzględniają przyznany rabat.😛</p>",
         "title": {
-            "shortTitle": null,
-            "subtitle": "Promocja od 2019-03-18 do 2019-03-20",
+            "shortTitle": "Promocja cenowa na części do maszyn",
+            "subtitle": "ważna od 2019-03-18 do 2019-03-20",
             "subtitle2": null,
             "title": "Piątka Majami"
         },
         "youtubeUrl": "https://youtu.be/lNDjKXw274Y"
     }
-    
-
 ]

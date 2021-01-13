@@ -1,0 +1,300 @@
+﻿[
+    {
+        "galleryName": "Ligna 2019",
+        "galleryDescription": null,
+        "id": "bax-bauma-2019",
+        "infoBgColor":"#5bbf21",
+        "imageGalleryItemList": [
+            {           
+                "description": "W dobrym nastroju; squad na dziś mówi dobranoc...",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-bauma-2019-04.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Bauma day 1"
+            },
+            {           
+                "description": "Pierwszy toast za.... SENNEBOGEN",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-02.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Toast"
+            },
+            {           
+                "description": "Bauma, Monachium mówi dobranoc",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-03.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Day 1- dobranoc"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-07-Stoisko-sennebogen.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Stoisko Sennebogen"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-08-plac-maszyn.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Plac maszyn"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-09-potwory-robia-wrazenie.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Potwory robią wrażenie"
+            },
+            {           
+                "description": "Las maszyn Sennebogen",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-10-LAS-sennebogen.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Las"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-11-dream-job.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Dream job"
+            },
+            {           
+                "description": "Nowości na stanowisku Yanmar",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-12.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Nowości Yanmar"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-13.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar prototype"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-14.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-15.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar"
+            },
+            {           
+                "description": "Nowość - ViO82, światowa premiera",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-16-nowa-ViO82.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar ViO82"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-17-ViO82.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar ViO82"
+            },
+            {           
+                "description": "Nowość - ViO80, światowa premiera",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-18-nowa-ViO80.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Yanmar ViO80"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-19-ViO80-wnetrze.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "ViO82 wnętrze"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-20-ViO80-wnetrze.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "ViO80 wnętrze"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-22-miko-sprzedaje-sie.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Się sprzedaje !"
+            },
+            {           
+                "description": "A wieczór dopiero się zaczyna...⭐ Bax = Yanmar Global ",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-23-dwie-gwiazdy.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "BAX == Yanmar"
+            },
+            {           
+                "description": "👍 To jest foto ! W towarzystwie Erich Sennebogen",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-24-erich-sennebogen.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Erich Sennebogen"
+            },
+            {           
+                "description": "Ekipa Sennebogen - Dajemy radę na dwóch frontach !",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-25-ekipa-sennebogen.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Ekipa Senne"
+            },
+            {           
+                "description": "🔥 no albo się to ma...💖 A dziewczyny tylko poprosiły o ogień..🔥",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-26-krzysztof-w-piorach.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "..albo się to ma.."
+            },
+            {           
+                "description": "Serdecznie witamy zaproszonych przez nas gości - Firma SURMAT 👌, życzymy udanego pobytu ‼",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-27-ekipa-surmat.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Ekipa SURMAT"
+            },
+            {           
+                "description": "Mikolaj Lewkowicz wrócił z walki na froncie 🍷SENNEBOGEN Maschinenfabrik GmbH ..tylko by zabrać gitarę 🎸",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-28-Miko-wrocil-po-gitare.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Aga i Miko"
+            },
+            {           
+                "description": "😪3h snu a chłopaki jak nowi 😎👍 The JOB is done 💪",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-29-miko-kriss-3h-snu.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "3h snu"
+            },
+            {           
+                "description": "Byliśmy również na stoisku naszych przyjaciół z ARJES - Recycling Innovation a tam niespodzianka ☝ Niemiecka odmiana Złomowisko PL - Ludolf Alles andere ist Schrott ",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-30-arjes-zlomiarze-de.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Ludolf Alles andere ist Schrott"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-31.jpg",
+                "infoBgColor": "#FF5E0E",
+                "subtitle": null,
+                "title": "Arjes"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-32.jpg",
+                "infoBgColor": "#FF5E0E",
+                "subtitle": null,
+                "title": "Arjes"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-33.jpg",
+                "infoBgColor": "#FF5E0E",
+                "subtitle": null,
+                "title": "Arjes"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-34.jpg",
+                "infoBgColor": "#FF5E0E",
+                "subtitle": null,
+                "title": "Arjes"
+            },
+            {           
+                "description": null,
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-Bauma-2019-04-09-35.jpg",
+                "infoBgColor": "#FF5E0E",
+                "subtitle": null,
+                "title": "Arjes"
+            },
+            {           
+                "description": "Gość na okładkę ! PRZEDSTAWICIEL marki SENNEBOGEN Maschinenfabrik GmbH i skarb firmy Bax baumaschinen",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-bauma-2019-05.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Gość na okładkę"
+            },
+            {           
+                "description": "ładny i ładniejszy... tylko nie wiadomo od którego zacząć.. (w nawiązaniu do poprzedniej foty z Mikolaj Lewkowicz; Oprócz prezencji - niesamowita wiedza i doświadczenie; Yanmar Global = Bax-maszyny = Krzysztof Grodzki",
+                "imgUrl": "./assets/images/galleries/bax-bauma-2019/bax-bauma-2019-06.jpg",
+                "infoBgColor": null,
+                "subtitle": null,
+                "title": "Krzysztof Grodzki"
+            }
+
+        ]
+    },
+
+    {
+        "galleryName": "Ligna 2019",
+        "galleryDescription": null,
+        "id": "bax-targi-ligna-hanover-2019",
+        "infoBgColor": null,
+        "imageGalleryItemList": [
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_093858.jpg",
+                "infoBgColor": null,
+                "subtitle": "first subtitle info",
+                "title": "Ligna foto title "
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_094825.jpg",
+                "infoBgColor": null,
+                "subtitle": "sec subtitle info",
+                "title": null
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_094850.jpg",
+                "infoBgColor": null,
+                "subtitle": "third subtitle info",
+                "title": "Ligna third title "
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_094938.jpg",
+                "infoBgColor": null,
+                "subtitle": "third subtitle info",
+                "title": "Ligna fourth title "
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_095015.jpg",
+                "infoBgColor": null,
+                "subtitle": "third subtitle info",
+                "title": "Ligna fourth title "
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_095141.jpg",
+                "infoBgColor": null,
+                "subtitle": "third subtitle info",
+                "title": "Ligna fourth title "
+            },
+            {           
+                "description": "first foto",
+                "imgUrl": "./assets/images/galleries/bax-targi-ligna-hanover-2019/20190529_095255.jpg",
+                "infoBgColor": null,
+                "subtitle": "third subtitle info",
+                "title": "Ligna fourth title "
+            }
+        ]
+    }
+]
